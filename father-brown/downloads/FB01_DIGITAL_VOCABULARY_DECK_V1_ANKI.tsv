@@ -1,0 +1,63 @@
+spanish_headword	part_of_speech	english_support	simple_spanish_definition	story_example	story_reference	story_word	story_word_in	deck_tag
+abrigo	noun	coat	Ropa que se lleva encima de otras prendas para protegerse del frío.	Fischer guardó la caja en el bolsillo de su abrigo.	Stories 3–4	NO		GLOSSARY
+amenaza	noun	threat	Mensaje o acción que anuncia que alguien puede hacer daño.	La amenaza apareció en el escaparate.	Story 4	YES	4	STORY_WORD
+asesino	noun	murderer / killer	Persona que mata a otra persona de forma intencional.	Angus pensaba que un asesino entró en el edificio.	Story 4	YES	4	STORY_WORD
+ataúd	noun	coffin	Caja donde se coloca un cuerpo para enterrarlo.	Abrieron el ataúd del conde.	Story 5	YES	5	STORY_WORD
+bandeja	noun	tray	Superficie plana que sirve para llevar comida, bebidas u objetos.	Las máquinas podían transportar una bandeja.	Story 4	NO		GLOSSARY
+bastón	noun	walking stick / cane	Palo que una persona puede usar para apoyarse al caminar.	Encontraron un bastón al que le faltaba la parte superior.	Story 5	NO		GLOSSARY
+bizco / bizca	adjective	cross-eyed	Que tiene los ojos orientados de una manera diferente entre sí.	Welkin era muy bizco.	Story 4	YES	4	STORY_WORD
+calavera	noun	skull	Parte ósea de la cabeza.	La calavera no estaba en el ataúd.	Story 5	YES	5	STORY_WORD
+camarero / camarera	noun	waiter / server	Persona que sirve comida y bebida en un hotel, café o restaurante.	Los invitados apenas miraban a los camareros.	Story 2	YES	2	STORY_WORD
+candelabro	noun	candlestick / candleholder	Objeto que sostiene una vela.	Había velas, pero no candelabros.	Story 5	NO		GLOSSARY
+canal	noun	canal	Vía de agua construida o modificada por personas.	Encontraron el cuerpo de Smythe en el canal.	Story 4	NO		GLOSSARY
+cartero / cartera	noun	postman / mail carrier	Persona que lleva y entrega cartas.	El hombre que nadie consideraba sospechoso era un cartero.	Story 4	NO		GLOSSARY
+castillo	noun	castle	Edificio grande y fortificado, normalmente antiguo.	El castillo de Glengyle estaba aislado.	Story 5	YES	5	STORY_WORD
+castaña	noun	chestnut	Fruto marrón de un castaño.	Un vendedor de castañas vigilaba la entrada.	Story 4	NO		GLOSSARY
+coche	noun	car	Vehículo de motor para transportar personas.	Un coche elegante llegó a la casa.	Story 3	NO		GLOSSARY
+coronel	noun	colonel	Rango militar superior.	El coronel Adams era el padre de Ruby.	Story 3	NO		GLOSSARY
+crucifijo	noun	crucifix	Cruz con la figura de Jesucristo.	Brown dejó un pequeño crucifijo sobre la mesa.	Story 3	NO		GLOSSARY
+cruz	noun	cross	Figura formada por dos líneas que se cruzan; también símbolo cristiano.	El padre Brown llevaba una cruz valiosa.	Story 1	YES	1	STORY_WORD
+cubo	noun	bucket	Recipiente abierto que sirve para llevar agua u otros materiales.	Un empleado estaba junto a las escaleras con un cubo.	Story 4	NO		GLOSSARY
+cubierto	noun	piece of cutlery	Objeto usado para comer, como cuchillo, tenedor o cuchara.	Los cubiertos de plata tenían forma de pez.	Story 2	YES	2	STORY_WORD
+diamante	noun	diamond	Piedra preciosa muy dura y brillante.	Fischer mostró tres diamantes famosos.	Stories 3 and 5	YES	3,5	STORY_WORD
+dibujante	noun	draftsman / illustrator	Persona que trabaja haciendo dibujos.	Angus trabajaba como dibujante.	Story 4	NO		GLOSSARY
+disfraz	noun	costume / disguise	Ropa o apariencia usada para parecer otra persona o personaje.	El mejor disfraz de Flambeau era su papel social.	Stories 2–3	YES	2,3	STORY_WORD
+escaparate	noun	shop window / display window	Parte de una tienda, normalmente de cristal, donde se muestran productos.	La amenaza apareció pegada al escaparate.	Story 4	NO		GLOSSARY
+escenario	noun	stage	Lugar donde se representa una obra o espectáculo.	El vestíbulo se convirtió en un pequeño escenario.	Story 3	YES	3	STORY_WORD
+espectáculo	noun	show / performance	Actuación preparada para un público.	La pantomima era un espectáculo de Navidad.	Story 3	YES	3	STORY_WORD
+exclusivo / exclusiva	adjective	exclusive	Reservado para pocas personas o para un grupo selecto.	El Vernon Hotel era muy exclusivo.	Story 2	YES	2	STORY_WORD
+guardarropa	noun	cloakroom	Lugar donde se guardan abrigos y otras prendas temporalmente.	Brown esperó cerca del guardarropa.	Story 2	YES	2	STORY_WORD
+halo	noun	halo	Círculo de luz representado alrededor de la cabeza de una figura sagrada.	Faltaba el oro del halo.	Story 5	NO		GLOSSARY
+honesto / honesta	adjective	honest	Que no engaña y toma solo lo que considera suyo.	Israel Gow era extraño, pero extremadamente honesto.	Story 5	YES	5	STORY_WORD
+huella	noun	footprint / track	Marca que deja un pie o un zapato sobre una superficie.	Había huellas en la nieve.	Story 4	YES	4	STORY_WORD
+invento	noun	invention	Objeto o sistema nuevo creado por una persona.	Las máquinas de Smythe eran su gran invento.	Story 4	NO		GLOSSARY
+invitado / invitada	noun	guest	Persona que ha sido invitada a una casa, evento o comida.	Los invitados pensaban que Flambeau era un camarero.	Stories 2–3	NO		GLOSSARY
+joya	noun	jewel / piece of jewelry	Objeto valioso que suele llevar piedras preciosas o metales nobles.	Las joyas falsas cubrían el traje de Arlequín.	Story 3	YES	3	STORY_WORD
+ladrón / ladrona	noun	thief	Persona que roba.	Flambeau había sido un ladrón famoso.	Stories 1–3	YES	1	STORY_WORD
+mecanismo	noun	mechanism	Conjunto de piezas que hacen funcionar una máquina.	Las figuras mecánicas funcionaban con mecanismos.	Story 4	NO		GLOSSARY
+mina de lápiz	noun phrase	pencil lead	Parte central del lápiz que deja la marca al escribir.	Había minas de lápiz sin sus estuches.	Story 5	NO		GLOSSARY
+montura	noun	setting / mount	Parte que sostiene una piedra preciosa dentro de una joya.	Los diamantes estaban allí, pero faltaban sus monturas de oro.	Story 5	NO		GLOSSARY
+oro	noun	gold	Metal amarillo muy valioso.	Gow tomó solo el oro.	Story 5	YES	5	STORY_WORD
+padrino	noun	godfather	Hombre que tiene una relación especial con una persona por bautismo o tradición familiar.	Sir Leopold Fischer era el padrino de Ruby.	Story 3	YES	3	STORY_WORD
+paquete	noun	parcel / package	Objeto envuelto o preparado para transportar.	El padre Brown cambió los paquetes para proteger la cruz.	Story 1	YES	1	STORY_WORD
+pantomima	noun	pantomime / comic stage performance	En esta historia, espectáculo casero con disfraces, bromas físicas y personajes exagerados.	Blount organizó una pantomima de Navidad.	Story 3	NO		GLOSSARY
+paraguas	noun	umbrella	Objeto que protege de la lluvia.	El padre Brown viajaba con su paraguas.	Story 1	YES	1	STORY_WORD
+pasillo	noun	corridor / hallway	Espacio largo que conecta habitaciones o zonas de un edificio.	Brown escuchó los pasos en el pasillo.	Story 2	YES	2	STORY_WORD
+payaso	noun	clown	Personaje cómico que hace bromas y movimientos exagerados.	John Crook interpretó al payaso.	Story 3	YES	3	STORY_WORD
+perla	noun	pearl	Pequeña esfera brillante formada dentro de ciertos moluscos y usada en joyería.	Los cubiertos de plata llevaban perlas en los mangos.	Story 2	NO		GLOSSARY
+pista	noun	clue	Dato que ayuda a descubrir la solución de un misterio.	Las huellas eran una pista importante.	All stories	YES	1	STORY_WORD
+plata	noun	silver	Metal blanco brillante y valioso.	Flambeau robó los cubiertos de plata.	Story 2	YES	2	STORY_WORD
+policía	noun	police officer / police	Persona encargada de mantener el orden y hacer cumplir la ley.	Un policía real entró durante la pantomima.	Stories 3–4	NO		GLOSSARY
+portero	noun	doorman / porter	Persona que controla o atiende la entrada de un edificio.	El portero vigilaba Himylaya Mansions.	Story 4	YES	4	STORY_WORD
+posada	noun	inn	Lugar pequeño donde los viajeros pueden comer y dormir.	El padre de Laura tenía una posada.	Story 4	NO		GLOSSARY
+rapé	noun	snuff	Tabaco en polvo que se usaba antiguamente de una manera especial.	Encontraron rapé, pero no su caja de oro.	Story 5	NO		GLOSSARY
+reloj	noun	watch / clock	Objeto que sirve para medir y mostrar la hora.	Quedaban los mecanismos, pero faltaban las cajas de los relojes.	Story 5	NO		GLOSSARY
+saco	noun	sack / large bag	Bolsa grande y resistente.	Brown preguntó por un saco grande.	Story 4	YES	4	STORY_WORD
+sacerdote	noun	priest	Hombre que realiza funciones religiosas en una iglesia.	El padre Brown era sacerdote.	All stories	YES	1	STORY_WORD
+sello	noun	stamp	Pequeño papel usado para pagar el envío de una carta o documento postal.	La tira de papel estaba relacionada con sellos.	Story 4	NO		GLOSSARY
+sirviente	noun	servant	Persona que trabaja al servicio de otra persona o casa.	Israel Gow era el único sirviente del conde.	Story 5	YES	5	STORY_WORD
+sospechar	verb	to suspect	Pensar que una persona puede ser responsable de algo malo sin tener todavía una prueba completa.	Fischer sospechó de Crook.	Stories 3–4	YES	1	STORY_WORD
+tabaco	noun	tobacco	Planta y producto usado tradicionalmente para fumar o preparar rapé.	El tabaco quedó, pero la caja desapareció.	Story 5	NO		GLOSSARY
+tumba	noun	grave	Lugar donde se entierra un cuerpo.	Brown pidió abrir la tumba del conde.	Story 5	YES	5	STORY_WORD
+vigilar	verb	to watch / guard	Observar un lugar o una persona para saber qué ocurre.	Cuatro personas vigilaban la entrada.	Story 4	YES	4	STORY_WORD
+zafiro	noun	sapphire	Piedra preciosa, normalmente azul.	La cruz llevaba piedras azules de gran valor.	Story 1	YES	1	STORY_WORD
