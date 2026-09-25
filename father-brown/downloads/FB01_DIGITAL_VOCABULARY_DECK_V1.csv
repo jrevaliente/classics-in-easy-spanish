@@ -19,6 +19,8 @@ crucifijo,noun,crucifix,Cruz con la figura de Jesucristo.,Brown dejó un pequeñ
 cruz,noun,cross,Figura formada por dos líneas que se cruzan; también símbolo cristiano.,El padre Brown llevaba una cruz valiosa.,Story 1,YES,1,STORY_WORD
 cubo,noun,bucket,Recipiente abierto que sirve para llevar agua u otros materiales.,Un empleado estaba junto a las escaleras con un cubo.,Story 4,NO,,GLOSSARY
 cubierto,noun,piece of cutlery,"Objeto usado para comer, como cuchillo, tenedor o cuchara.",Los cubiertos de plata tenían forma de pez.,Story 2,YES,2,STORY_WORD
+desaparecer,verb,to disappear,Dejar de estar visible o dejar de estar en un lugar.,"Una máquina puede moverse, pero no puede hacer desaparecer a un hombre.",Story 4,YES,4,STORY_WORD
+devolver,verb,to return / give back,Dar otra vez algo a la persona a la que pertenece.,Esta noche devolvió la plata.,Stories 2–3,YES,"2,3",STORY_WORD
 diamante,noun,diamond,Piedra preciosa muy dura y brillante.,Fischer mostró tres diamantes famosos.,Stories 3 and 5,YES,"3,5",STORY_WORD
 dibujante,noun,draftsman / illustrator,Persona que trabaja haciendo dibujos.,Angus trabajaba como dibujante.,Story 4,NO,,GLOSSARY
 disfraz,noun,costume / disguise,Ropa o apariencia usada para parecer otra persona o personaje.,El mejor disfraz de Flambeau era su papel social.,Stories 2–3,YES,"2,3",STORY_WORD
