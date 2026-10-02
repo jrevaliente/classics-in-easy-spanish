@@ -1,0 +1,36 @@
+name: Build Gold-Bug approved cover
+on:
+  push:
+    paths:
+      - 'gold-bug/.cover-stage/READY'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble approved cover
+        shell: bash
+        run: |
+          cat gold-bug/.cover-stage/part*.txt | tr -d '\n\r ' | base64 -d > gold-bug/assets/cover-fixed.webp
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib
+          p=Path("gold-bug/assets/cover-fixed.webp")
+          assert p.stat().st_size == 16638, p.stat().st_size
+          assert hashlib.sha256(p.read_bytes()).hexdigest() == "7c5831d7b6581993813eab6c71c2932207159f54eb63404b33f30e38223a777c"
+          index=Path("gold-bug/index.html")
+          s=index.read_text()
+          s=s.replace("./assets/cover.webp?v=2","./assets/cover-fixed.webp?v=4")
+          s=s.replace("./assets/cover.jpg?v=3","./assets/cover-fixed.webp?v=4")
+          index.write_text(s)
+          PY
+      - name: Commit repaired cover
+        shell: bash
+        run: |
+          git config user.name "Ojo Horus"
+          git config user.email "44057569+jrevaliente@users.noreply.github.com"
+          git add gold-bug/assets/cover-fixed.webp gold-bug/index.html
+          git commit -m "Install approved Gold-Bug cover correctly"
+          git push
