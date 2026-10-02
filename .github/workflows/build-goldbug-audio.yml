@@ -1,0 +1,56 @@
+name: Build Gold-Bug audio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'gold-bug/audio-parts/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  build-audio:
+    if: contains(github.event.head_commit.added, 'gold-bug/audio-parts/READY')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Assemble exact MP3 files
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p gold-bug/audio
+          cat gold-bug/audio-parts/chapter-1.part* > gold-bug/audio/chapter-1.mp3
+          cat gold-bug/audio-parts/chapter-2.part* > gold-bug/audio/chapter-2.mp3
+          cat gold-bug/audio-parts/chapter-3.part* > gold-bug/audio/chapter-3.mp3
+          cp gold-bug/audio-parts/chapter-4.mp3 gold-bug/audio/chapter-4.mp3
+          cat gold-bug/audio-parts/chapter-5.part* > gold-bug/audio/chapter-5.mp3
+          cat gold-bug/audio-parts/chapter-6.part* > gold-bug/audio/chapter-6.mp3
+          cat gold-bug/audio-parts/chapter-7.part* > gold-bug/audio/chapter-7.mp3
+          cat gold-bug/audio-parts/chapter-8.part* > gold-bug/audio/chapter-8.mp3
+          cat gold-bug/audio-parts/chapter-9.part* > gold-bug/audio/chapter-9.mp3
+
+          test "$(git hash-object gold-bug/audio/chapter-1.mp3)" = "a7561db5433f0cf307d795d479c51bae89421dde"
+          test "$(git hash-object gold-bug/audio/chapter-2.mp3)" = "ff29f3adc8266fa11b55944ca189a136f832cafc"
+          test "$(git hash-object gold-bug/audio/chapter-3.mp3)" = "4b6156d935bf96e0f1d50da2c22e2ac24ccf2c95"
+          test "$(git hash-object gold-bug/audio/chapter-4.mp3)" = "bf25c97d234dd111a999cf5fbf6e53523842a40f"
+          test "$(git hash-object gold-bug/audio/chapter-5.mp3)" = "4850080b4893f90a130bf246cfbd9841e946b753"
+          test "$(git hash-object gold-bug/audio/chapter-6.mp3)" = "2a235136ba91f61988e4822ffcd449d584206d95"
+          test "$(git hash-object gold-bug/audio/chapter-7.mp3)" = "98f568c13ea9fe149da33f48a01c7eb395632e49"
+          test "$(git hash-object gold-bug/audio/chapter-8.mp3)" = "e23b13485d595b5889aea89f4e7c8800785322d4"
+          test "$(git hash-object gold-bug/audio/chapter-9.mp3)" = "c29f7a3f4a1d9ece75c5c4df361123279a0d3e20"
+
+          rm -rf gold-bug/audio-parts
+
+      - name: Commit assembled audio
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A gold-bug/audio gold-bug/audio-parts
+          git commit -m "Assemble Gold-Bug audio files"
+          git push
