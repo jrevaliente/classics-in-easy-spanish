@@ -1,1 +1,0 @@
-Upload cover.png and qr-companion.png to this folder before merging the branch.
