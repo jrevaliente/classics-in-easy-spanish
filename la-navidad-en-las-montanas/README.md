@@ -1,31 +1,26 @@
 # La Navidad en las montañas — B1 Reader Companion
 
-Audio companion for **La Navidad en las montañas in Easy Spanish**, an intermediate (B1) Mexican Spanish retelling of Ignacio Manuel Altamirano's Christmas novel, adapted by José Revaliente.
+The companion to *La Navidad en las montañas in Easy Spanish*, Ignacio Manuel Altamirano, adapted by José Revaliente. Language variety: Mexican Spanish.
 
-## Published web page
-
+## Website
 https://jrevaliente.github.io/classics-in-easy-spanish/la-navidad-en-las-montanas/
 
-## Contents
+## Live content in this folder
+- `index.html` — responsive B1 reader companion with eleven audio players and five study-download cards.
+- `audio-source-manifest.json` — canonical Internet Archive chapter URLs and provenance.
+- `downloads/navidad_b1_vocabulary.csv` — 137 items extracted from the V19 contextual glossary candidate; includes first part and contextual English meaning.
+- `downloads/navidad_b1_anki.tsv` — 137 corresponding tab-separated flashcards (front / back / tags).
+- `downloads/conflict_timeline.html` — 12 grounded checkpoints following the narrative's reading order; flashbacks labelled.
+- `downloads/character_conflict_map.html` — ten characters and six conflict relationships; spoilers labelled.
+- `downloads/printable_reading_companion.html` — 41 questions and five story-detail replays from the pedagogical candidate; print-friendly.
+- `assets/cover.jpg` — **legacy low-resolution fallback**, presently uploaded in GitHub.
+- `assets/cover.webp` — **awaiting binary upload**. The owner-supplied full image was locally converted at 992 × 1586 px; `index.html` prefers this high-resolution asset and falls back to cover.jpg. Upload cover.webp without changing the HTML.
 
-- `index.html` — responsive companion page with eleven audio players and chapter titles.
-- `assets/cover.jpg` — **optimized low-resolution web thumbnail** derived from the owner's supplied cover; the original full-resolution cover remains in the local publishing package.
-- `audio-source-manifest.json` — chapter-to-audio mapping and provenance.
+## Audio
+The 11 MP3s remain hosted by Internet Archive: `https://archive.org/download/c-11_20261008/C01.mp3` through `C11.mp3`. The owner reports working players. Do not upload MP3 binaries to GitHub.
 
-### Audio architecture
+## Editorial status
+The vocabulary is derived from the project's glossary V19 candidate, and the printable comprehension questions from pedagogical candidate V1. Timelines/maps are derivative study aids checked against Spanish narrative V12, **not final QA approval**. This website does not establish publication readiness, rights, metadata, or the remote MP3 file identity.
 
-All eleven MP3 tracks are externally hosted on **Internet Archive**, item `c-11_20261008`. The canonical player source is `https://archive.org/download/c-11_20261008/CXX.mp3` for `XX=01…11`. Do not replace this with a physical mirror URL such as `ia601606.us.archive.org`, which may change.
-
-No MP3 binaries have been copied into this repository. **External playback, content hashes and pronunciation remain unverified; live end-to-end QA is required.**
-
-### Reader flow
-
-Read first, listen to the corresponding chapter, then use the vocabulary and English translation supplied with the book. The website makes no claim to host separate vocabulary downloads or an embedded translation.
-
-### Publication status
-
-The web assets are repository uploads, **not** a declaration of final print, editorial, KDP, metadata or audio QA. The site is public only subject to the repository's GitHub Pages deployment settings.
-
-### Preservation
-
-The root `index.html` of the series links to this subdirectory. Other title directories are not modified.
+## Upload completion blocker
+The linked GitHub connector's text-content actions do not provide a direct binary file upload from the local sandbox. The only missing asset in the website is the 992 × 1586 `assets/cover.webp`. The owner can add this one file in the GitHub web UI to finish the visual fix.
