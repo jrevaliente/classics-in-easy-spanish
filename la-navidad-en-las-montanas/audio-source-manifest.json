@@ -1,0 +1,81 @@
+{
+  "book": "La Navidad en las montañas in Easy Spanish",
+  "level": "B1",
+  "language_variety": "Mexican Spanish",
+  "original_author": "Ignacio Manuel Altamirano",
+  "adaptation": "José Revaliente",
+  "archive_item": "c-11_20261008",
+  "archive_collection": "https://archive.org/details/c-11_20261008",
+  "audio_host": "Internet Archive",
+  "mp3_hosted_in_github": false,
+  "source_note": "Audio URLs supplied by book owner; external playback and byte identity NOT verified by the assistant",
+  "cover_note": "The web display cover is an optimized low-resolution JPEG derived from the supplied book cover, not the full-resolution print file",
+  "parts": [
+    {
+      "part": 1,
+      "roman": "I",
+      "title": "El último sol sobre la sierra",
+      "audio": "https://archive.org/download/c-11_20261008/C01.mp3"
+    },
+    {
+      "part": 2,
+      "roman": "II",
+      "title": "Los recuerdos de Nochebuena",
+      "audio": "https://archive.org/download/c-11_20261008/C02.mp3"
+    },
+    {
+      "part": 3,
+      "roman": "III",
+      "title": "Las fiestas de la ciudad",
+      "audio": "https://archive.org/download/c-11_20261008/C03.mp3"
+    },
+    {
+      "part": 4,
+      "roman": "IV",
+      "title": "Un capitán en busca de refugio",
+      "audio": "https://archive.org/download/c-11_20261008/C04.mp3"
+    },
+    {
+      "part": 5,
+      "roman": "V",
+      "title": "La historia del hermano cura",
+      "audio": "https://archive.org/download/c-11_20261008/C05.mp3"
+    },
+    {
+      "part": 6,
+      "roman": "VI",
+      "title": "Un hombre distinto",
+      "audio": "https://archive.org/download/c-11_20261008/C06.mp3"
+    },
+    {
+      "part": 7,
+      "roman": "VII",
+      "title": "El pueblo que cambió",
+      "audio": "https://archive.org/download/c-11_20261008/C07.mp3"
+    },
+    {
+      "part": 8,
+      "roman": "VIII",
+      "title": "El hermano cura y un secreto",
+      "audio": "https://archive.org/download/c-11_20261008/C08.mp3"
+    },
+    {
+      "part": 9,
+      "roman": "IX",
+      "title": "La plaza de Nochebuena",
+      "audio": "https://archive.org/download/c-11_20261008/C09.mp3"
+    },
+    {
+      "part": 10,
+      "roman": "X",
+      "title": "La misa de gallo",
+      "audio": "https://archive.org/download/c-11_20261008/C10.mp3"
+    },
+    {
+      "part": 11,
+      "roman": "XI",
+      "title": "Dos historias y una Navidad",
+      "audio": "https://archive.org/download/c-11_20261008/C11.mp3"
+    }
+  ]
+}
