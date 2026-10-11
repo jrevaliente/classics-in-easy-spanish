@@ -6,12 +6,12 @@ Audio: 29 user-supplied external Internet Archive MP3 URLs; audio playback remai
 
 Publication gates: this GitHub companion is not proof of KDP publication, production lock, licensing checks, or official CEFR certification.
 
-**Manual uploads still required** from the companion ZIP:
+**Manual binary uploads still required** from the companion ZIP:
 - `tristana/assets/cover-3000x4500.jpg`
 - `tristana/assets/cover-web.webp`
-- `tristana/downloads/tristana_b2_vocabulary.csv` (145 grounded entries)
-- `tristana/downloads/tristana_b2_anki.tsv` (145 cards)
 - `tristana/downloads/tristana_b2_reading_companion.pdf` (33 pages)
+
+The 145-entry chapter vocabulary CSV and 145-card Anki-compatible TSV are already committed to GitHub.
 
 The book jacket enlargement has 3000×4500 pixels obtained by resampling a 1024×1536 user-approved image; this does not add native visual detail.
 
