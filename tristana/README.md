@@ -1,18 +1,28 @@
 # Tristana in Easy Spanish — B2 Reader Companion
 
-Static study site for the 29-chapter pedagogical retelling. Story first.
+Static study site for the 29-chapter pedagogical retelling. **Story first.**
 
-Audio: 29 user-supplied external Internet Archive MP3 URLs; audio playback remains to be independently tested.
+## GitHub content verification (11 October 2026)
 
-Publication gates: this GitHub companion is not proof of KDP publication, production lock, licensing checks, or official CEFR certification.
+The repository contains all planned companion assets:
 
-**Manual binary uploads still required** from the companion ZIP:
-- `tristana/assets/cover-3000x4500.jpg`
-- `tristana/assets/cover-web.webp`
-- `tristana/downloads/tristana_b2_reading_companion.pdf` (33 pages)
+- `index.html` — B2 companion homepage and 29 externally linked audio players.
+- `assets/cover-web.webp` — web cover.
+- `assets/cover-3000x4500.jpg` — high-pixel-count cover.
+- `assets/cover.svg` — emergency typographic fallback.
+- `downloads/tristana_b2_vocabulary.csv` — 145 entries, five for each chapter.
+- `downloads/tristana_b2_anki.tsv` — 145 Anki-compatible flashcards.
+- `downloads/conflict_timeline.html` — interpretative whole-book timeline, with spoilers.
+- `downloads/character_conflict_map.html` — character and conflict relationships, with spoilers.
+- `downloads/printable_reading_companion.html` — print-friendly notes for 29 chapters.
+- `downloads/tristana_b2_reading_companion.pdf` — 33-page companion PDF.
 
-The 145-entry chapter vocabulary CSV and 145-card Anki-compatible TSV are already committed to GitHub.
+**No manual file uploads remain pending in this inventory.** The root `index.html` links to `tristana/`.
 
-The book jacket enlargement has 3000×4500 pixels obtained by resampling a 1024×1536 user-approved image; this does not add native visual detail.
+## Not yet independently verified
 
-Upload each under the exact path above. Existing other-book folders must not be changed.
+- The public GitHub Pages URL is **not confirmed reachable from the audit environment**.
+- All 29 audio links match owner-provided Internet Archive URLs, but external availability, audio content, and browser playback have not been confirmed.
+- The user-approved cover JPEG is 3000 × 4500 pixels because of a Lanczos enlargement of a 1024 × 1536 image, **not a native high-resolution rendering**.
+
+This companion does not by itself prove KDP publication, rights clearance, complete production lock, that promotional audio claims are fulfilled, or official CEFR certification. The B2 assessment is internal editorial work.
