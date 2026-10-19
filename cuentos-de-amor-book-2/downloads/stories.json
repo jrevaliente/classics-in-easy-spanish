@@ -1,0 +1,392 @@
+{
+  "source": "Spanish Master canonical V1.0 / 03_CUENTOS_DE_AMOR_SPANISH_MASTER_WORKING.md",
+  "book": "Book 2",
+  "level": "B1-B2 (editorial supported-reading range, not CEFR certification)",
+  "audio_mapping": "C01-C24 mapped to story order; recording content not independently audited",
+  "stories": [
+    {
+      "number": 1,
+      "source_unit": "U31",
+      "title": "La última ilusión de don Juan",
+      "actors": "Don Juan; Estrella; a narrator who speaks for the poets",
+      "initial_conflict": "Don Juan expects Estrella to embody a lasting romantic ideal while he pursues other women.",
+      "turning_point": "Estrella makes a decision about her own life that contradicts Don Juan’s expectations.",
+      "interpretive_caution": "The narrator takes Don Juan’s side; is his judgement fair to Estrella?",
+      "questions": [
+        "¿Qué relación mantiene don Juan con Estrella, y cómo es su comportamiento con otras mujeres?",
+        "¿Por qué escribe a Estrella durante años, pero no vuelve a visitarla?",
+        "¿Qué decide hacer Estrella, y por qué la reacción de don Juan resulta contradictoria?"
+      ],
+      "vocabulary_count": 6,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C01.mp3"
+    },
+    {
+      "number": 2,
+      "source_unit": "U23",
+      "title": "La inspiración",
+      "actors": "Fausto; an unknown deceased couple; literary critics",
+      "initial_conflict": "The successful poet Fausto cannot find inspiration to write.",
+      "turning_point": "He sees a tragedy, turns it into a poem and receives praise for apparently authentic feeling.",
+      "interpretive_caution": "Consider the difference between witnessing another person’s suffering and claiming it as one’s own experience.",
+      "questions": [
+        "¿Por qué Fausto no puede escribir al principio, y qué ve durante su paseo por Madrid?",
+        "¿Qué cambia Fausto cuando transforma la muerte de la pareja en su poema *Juntos*?",
+        "¿Qué creen los críticos sobre el poema y qué sabe el lector que ellos no explican?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C02.mp3"
+    },
+    {
+      "number": 3,
+      "source_unit": "U22",
+      "title": "Delincuente honrado",
+      "actors": "Father Téllez; an elderly shoemaker; the shoemaker’s daughter",
+      "initial_conflict": "Father Téllez struggles to understand a prisoner who claims to be an honourable man.",
+      "turning_point": "The shoemaker’s own story shows how he justified killing his daughter.",
+      "interpretive_caution": "The man’s self-description is not evidence that his actions were honourable.",
+      "questions": [
+        "¿Por qué el zapatero empieza a tener miedo cuando oye cantar a su mujer?",
+        "¿Qué hace con su hija, primero cuando es pequeña y después cuando la oye cantar junto a la ventana?",
+        "¿Por qué el título *Delincuente honrado* resulta contradictorio al terminar la historia?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C03.mp3"
+    },
+    {
+      "number": 4,
+      "source_unit": "U24",
+      "title": "¿Justicia?",
+      "actors": "Pablo Roldán; Felicia; a narrator who knows Pablo",
+      "initial_conflict": "Pablo asserts that he trusts Felicia and does not experience jealousy.",
+      "turning_point": "A public humiliation is followed by stolen pearls being found in Felicia’s belongings.",
+      "interpretive_caution": "The narrator’s knowledge of the manufactured evidence conflicts with the public version of justice.",
+      "questions": [
+        "¿Qué dice Pablo al principio sobre la libertad de Felicia y qué condición pone?",
+        "¿Qué ve el narrador en la fiesta? ¿Qué sabe con certeza y qué no puede comprobar?",
+        "¿Por qué encuentran las perlas entre las cosas de Felicia y por qué el narrador tiene dudas sobre qué hacer?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C04.mp3"
+    },
+    {
+      "number": 5,
+      "source_unit": "U20",
+      "title": "Memento",
+      "actors": "Gabriel; his aunt Gabriela; Candidita; other women in the gathering",
+      "initial_conflict": "A young Gabriel enters an older group’s literary and social gatherings.",
+      "turning_point": "Candidita’s attachment forces Gabriel to confront pity, embarrassment and unequal feeling.",
+      "interpretive_caution": "The older Gabriel remembers more than the others could know or control.",
+      "questions": [
+        "¿Qué recibe Gabriel de las cuatro mujeres, además de su cariño?",
+        "¿Qué comprende cuando Candidita lo abraza en la escalera?",
+        "¿Por qué Gabriel siente compasión y vergüenza al mismo tiempo, y qué hace después?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C05.mp3"
+    },
+    {
+      "number": 6,
+      "source_unit": "U21",
+      "title": "La caja de oro",
+      "actors": "A woman with a gold box; an interested narrator; a chemist",
+      "initial_conflict": "A woman protects a small gold box and believes its contents have a special power.",
+      "turning_point": "The curious narrator gets the contents analysed by a chemist.",
+      "interpretive_caution": "The chemical answer concerns the object, but does not settle the human pain.",
+      "questions": [
+        "¿Por qué dice el narrador que está enamorado de la mujer si no la quiere de verdad?",
+        "¿Qué cree la mujer sobre las pastillas y qué cambia cuando enseña la caja?",
+        "¿Qué descubre el químico al final, y por qué ese descubrimiento no resuelve todo el dolor de la historia?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C06.mp3"
+    },
+    {
+      "number": 7,
+      "source_unit": "U16",
+      "title": "El corazón perdido",
+      "actors": "A narrator; women who refuse the heart; a pale young girl; doctors",
+      "initial_conflict": "A narrator finds a living heart in the street and tries to find someone who will accept it.",
+      "turning_point": "A young girl takes the heart; later the doctors offer a medical explanation of her death.",
+      "interpretive_caution": "The narrator’s symbolic interpretation is not the same thing as the doctors’ diagnosis.",
+      "questions": [
+        "¿Para qué compra el narrador unas gafas mágicas?",
+        "¿Qué diferencia hay entre las mujeres de la calle y la niña pálida?",
+        "¿Qué explicación dan los médicos y qué explicación cree el narrador?"
+      ],
+      "vocabulary_count": 10,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C07.mp3"
+    },
+    {
+      "number": 8,
+      "source_unit": "U19",
+      "title": "Un parecido",
+      "actors": "Marcelo; Manuelita; Jacinta; Donato",
+      "initial_conflict": "Marcelo’s imagination remains fixed on Jacinta, whom he cannot have.",
+      "turning_point": "A woman he meets in Córdoba looks like Jacinta, but she is a different person.",
+      "interpretive_caution": "Resemblance does not give Marcelo the right to erase Manuelita’s identity.",
+      "questions": [
+        "¿Por qué Marcelo se marcha de Madrid y va al cortijo de Córdoba?",
+        "¿Qué semejanzas ve entre Jacinta y Manuelita? ¿Qué diferencias hay entre sus vidas?",
+        "¿Qué nombre dice Marcelo cuando abraza a Manuelita, y qué comprende después?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C08.mp3"
+    },
+    {
+      "number": 9,
+      "source_unit": "U26",
+      "title": "La novia fiel",
+      "actors": "Amelia Sirvián; Germán Riaza; a priest",
+      "initial_conflict": "After ten years of courtship, Amelia doubts Germán’s commitment and conduct.",
+      "turning_point": "She ends the engagement even though she continues to love him.",
+      "interpretive_caution": "Distinguish what Amelia knows, what she suspects and the unequal rules imposed on her.",
+      "questions": [
+        "¿Por qué Amelia acepta esperar durante los primeros años del noviazgo?",
+        "¿Qué sabe Amelia de la vida de Germán en Madrid y qué cosas solo sospecha?",
+        "¿Por qué decide romper la relación aunque todavía quiere a Germán?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C09.mp3"
+    },
+    {
+      "number": 10,
+      "source_unit": "U27",
+      "title": "Afra",
+      "actors": "Afra; Flora; a young officer narrator; Alberto",
+      "initial_conflict": "The narrator is struck by Afra’s serious demeanour, then hears conflicting accounts of Flora’s death.",
+      "turning_point": "People connect Afra with that death, but no proof of murder is presented.",
+      "interpretive_caution": "Suspicion and hearsay must not be converted into a proven crime.",
+      "questions": [
+        "¿Por qué algunas personas creen que Afra está enamorada del marinero y con quién va a casarse él?",
+        "¿Qué cuenta Afra sobre la muerte de Flora y qué detalles conocen otras personas?",
+        "¿Por qué Alberto no puede afirmar que Afra mata a su amiga?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C10.mp3"
+    },
+    {
+      "number": 11,
+      "source_unit": "U41",
+      "title": "La novela de Raimundo",
+      "actors": "Raimundo; a young Romani mother; narrators and townspeople",
+      "initial_conflict": "A young woman and her child attract the narrator’s attention in a coastal town.",
+      "turning_point": "The woman is later reported dead, prompting speculation about who caused it.",
+      "interpretive_caution": "The story does not demonstrate who killed her; avoid adopting prejudiced assumptions.",
+      "questions": [
+        "¿Por qué Raimundo regresa al campamento y por qué deja de visitar a la muchacha?",
+        "¿Qué saben las autoridades sobre la muerte y qué parte de la historia es una sospecha de Raimundo?",
+        "¿Por qué resulta irónico que Raimundo llame «novela» a su experiencia, y qué límites tiene su manera de contarla?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C11.mp3"
+    },
+    {
+      "number": 12,
+      "source_unit": "U39",
+      "title": "Maldición de gitana",
+      "actors": "Gustavo; a Romani woman; a hunting party; a narrator",
+      "initial_conflict": "An insult prompts a woman to curse Gustavo, and a social superstition takes hold.",
+      "turning_point": "A fatal hunting accident seems to fit the curse.",
+      "interpretive_caution": "A sequence of events does not prove supernatural causation.",
+      "questions": [
+        "¿Qué ocurre durante la comida en casa de la tía, antes de la cacería?",
+        "¿Qué dice Santiago a la mujer y qué maldición pronuncia ella?",
+        "¿Quién dispara a Santiago y por qué el relato no demuestra que la maldición causara su muerte?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C12.mp3"
+    },
+    {
+      "number": 13,
+      "source_unit": "U40",
+      "title": "La bicha",
+      "actors": "Natalia; an initially judgmental man; townspeople",
+      "initial_conflict": "Natalia is made an object of judgement and ridicule during Carnaval.",
+      "turning_point": "The judgement changes through later encounters and a painful family ending.",
+      "interpretive_caution": "Treat social rumours and the narrator’s judgments as perspectives, not reliable moral verdicts.",
+      "questions": [
+        "¿Por qué don Mariano expulsa a Natalia del baile y cómo reacciona ella delante de todos?",
+        "¿Por qué su promesa de no casarse con Natalia es engañosa, aunque las palabras parezcan sinceras?",
+        "¿Qué hechos conoce directamente la viuda y cuáles explica mediante rumores o noticias recibidas?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C13.mp3"
+    },
+    {
+      "number": 14,
+      "source_unit": "U29",
+      "title": "Apólogo",
+      "actors": "Laura, a singer; Vicente; Ivan the Terrible in Laura’s tale",
+      "initial_conflict": "Vicente’s jealousy threatens Laura’s freedom.",
+      "turning_point": "Laura tells him a cautionary tale about Ivan the Terrible.",
+      "interpretive_caution": "The embedded story is a warning by analogy, not proof that Vicente has already committed the same violence.",
+      "questions": [
+        "¿Por qué tiene celos Vicente y qué le exige a Laura si se casan?",
+        "¿Qué le hace el rey al arquitecto y por qué le cuenta Laura esta historia a Vicente?",
+        "¿Qué hace Vicente antes de ir al teatro y qué descubre cuando llega?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C14.mp3"
+    },
+    {
+      "number": 15,
+      "source_unit": "U42",
+      "title": "Martina",
+      "actors": "Martina; Lorenzo; Martina’s family",
+      "initial_conflict": "Martina prepares for marriage while a past romantic betrayal remains hidden.",
+      "turning_point": "A letter changes what she understands, and a later reunion does not remove the memory of betrayal.",
+      "interpretive_caution": "She can love Lorenzo and still refuse a future with him.",
+      "questions": [
+        "¿Qué sabe Martina de la relación anterior de Lorenzo y por qué decide preguntarle por ella?",
+        "¿Qué hace Martina con la carta que recibe antes de la boda, y qué dice a sus padres?",
+        "¿Por qué abandona la finca después de reunirse con Lorenzo, aunque todavía lo ama?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C15.mp3"
+    },
+    {
+      "number": 16,
+      "source_unit": "U30",
+      "title": "A secreto agravio...",
+      "actors": "Riopardo; María; Germán; the townspeople",
+      "initial_conflict": "Riopardo sees his wife with an employee and privately interprets the scene.",
+      "turning_point": "He deliberately causes a fire, then performs grief after the deaths.",
+      "interpretive_caution": "The reader knows his involvement; sympathetic neighbours do not.",
+      "questions": [
+        "¿Qué ve Riopardo en el almacén y qué hacen María y Germán cuando oyen un ruido?",
+        "¿Qué hace Riopardo durante la noche y qué ocurre con María y Germán?",
+        "¿Por qué los vecinos sienten lástima por Riopardo y qué sabe el lector que ellos no saben?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C16.mp3"
+    },
+    {
+      "number": 17,
+      "source_unit": "U32",
+      "title": "La aventura del ángel",
+      "actors": "An angel sent to Earth; a human young woman; God",
+      "initial_conflict": "An angel is exiled from heaven for a year and tries to behave well on Earth.",
+      "turning_point": "An encounter with a young woman challenges his understanding of love and duty.",
+      "interpretive_caution": "His final attachment to earthly sensations complicates an apparently simple moral lesson.",
+      "questions": [
+        "¿Por qué cree el ángel que la persona descrita en el periódico es otro ángel de verdad?",
+        "¿Qué espera la joven después de escaparse, y por qué el ángel no comprende su enfado?",
+        "¿Por qué mira el ángel hacia la Tierra cuando regresa al cielo?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C17.mp3"
+    },
+    {
+      "number": 18,
+      "source_unit": "U34",
+      "title": "Así y todo...",
+      "actors": "Carmona; Ramiro; Captain Ortiz; Ortiz’s wife",
+      "initial_conflict": "Carmona questions why society applies inconsistent rules to women’s reputation.",
+      "turning_point": "A story of violence, a trial and remarriage makes the double standard visible.",
+      "interpretive_caution": "Retell allegations, admissions and disputed responsibility as different kinds of evidence.",
+      "questions": [
+        "¿Qué diferencias encuentra Carmona entre la reputación de unas mujeres y la posibilidad de casarse de otras?",
+        "¿Qué admite Ramiro ante el tribunal, y qué dice más tarde a Carmona sobre la participación de la esposa del capitán?",
+        "¿Por qué resulta irónico que la viuda de Ortiz vuelva a casarse cinco años después?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C18.mp3"
+    },
+    {
+      "number": 19,
+      "source_unit": "U33",
+      "title": "El fantasma",
+      "actors": "Leonor; Ramón; a student narrator; the marquis of Cazalla",
+      "initial_conflict": "The student believes Leonor’s looks conceal an intimate invitation.",
+      "turning_point": "Confessions and claims by other men unsettle his first interpretation.",
+      "interpretive_caution": "The story sustains doubt over which desires or accusations correspond to facts.",
+      "questions": [
+        "¿Qué cree el narrador sobre las miradas de Leonor y cómo cambia su interpretación después de la confesión?",
+        "¿Qué **afirma** el marqués de Cazalla y qué pruebas dice haber presentado al marido de Leonor?",
+        "¿Por qué las últimas palabras de Ramón hacen que su aparente confianza resulte más inquietante?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C19.mp3"
+    },
+    {
+      "number": 20,
+      "source_unit": "U37",
+      "title": "Los buenos tiempos",
+      "actors": "Doña Magdalena; her husband; a count; a visiting narrator",
+      "initial_conflict": "An austere old portrait seems to represent a model woman.",
+      "turning_point": "The count tells a dark family history that changes how the narrator sees her.",
+      "interpretive_caution": "The first portrait-based moral judgement is unreliable.",
+      "questions": [
+        "¿Por qué la narradora considera al principio que Magdalena fue una mujer ejemplar, y qué le reprocha su descendiente?",
+        "¿Qué sabe la historia sobre las visitas del marido a la casa del campesino? ¿Qué cree Magdalena, sin tener una prueba definitiva?",
+        "¿Por qué se descubre el asesinato después de un año y cómo afecta a la fortuna de la familia?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C20.mp3"
+    },
+    {
+      "number": 21,
+      "source_unit": "U38",
+      "title": "Sara y Agar",
+      "actors": "Hipólito Bernárdez; Romana; Mercedes; a child",
+      "initial_conflict": "Three portraits raise questions about a household’s unusual relationships.",
+      "turning_point": "Romana raises Mercedes and cares for her child; illness and loss transform the family.",
+      "interpretive_caution": "Hipólito’s motives and his final remark resist one-dimensional interpretation.",
+      "questions": [
+        "¿Cómo llega Mercedes a vivir con Hipólito y Romana? ¿Qué cambia cuando se hace mayor?",
+        "¿Por qué Romana decide criar al hijo de Mercedes y qué sucede después con el niño y con ella?",
+        "Al final, Hipólito dice: «Porque soy malo, pero no tanto como eso». ¿Por qué resulta difícil interpretar esa frase como una prueba de que ha actuado bien?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C21.mp3"
+    },
+    {
+      "number": 22,
+      "source_unit": "U43",
+      "title": "Remordimiento",
+      "actors": "The viscount of Tresmes; his niece; an adult narrator",
+      "initial_conflict": "An elderly viscount describes a decision he once called generous and virtuous.",
+      "turning_point": "He later regrets guiding his niece into marriage and tells the story as his own moral failure.",
+      "interpretive_caution": "The viscount’s self-serving account is not objective proof of the niece’s desires or wishes.",
+      "questions": [
+        "¿Qué responsabilidad tenía Tresmes respecto a su sobrina y cómo influyó en su matrimonio?",
+        "¿Qué hizo Tresmes después de comprender que también estaba enamorado de ella, y cómo respondió la joven?",
+        "¿Por qué el remordimiento del vizconde no es el que la narradora esperaba encontrar?"
+      ],
+      "vocabulary_count": 8,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C22.mp3"
+    },
+    {
+      "number": 23,
+      "source_unit": "U36",
+      "title": "Más allá",
+      "actors": "Two seriously ill young adults; attendants; their souls in the fantasy ending",
+      "initial_conflict": "Two patients occupy adjacent rooms but do not meet while alive.",
+      "turning_point": "After death their souls recognise each other, yet they cannot enter their different destinations separately.",
+      "interpretive_caution": "The supernatural ending is literary fantasy; the St Elmo’s fire image carries its paradox.",
+      "questions": [
+        "¿Por qué los dos enfermos no llegan a conocerse mientras están vivos, aunque están tan cerca?",
+        "¿Qué sucede cuando sus almas se encuentran y por qué no pueden entrar en sus destinos respectivos?",
+        "¿Qué propone él y qué decide ella? ¿Qué explica el cuento mediante el fuego de San Telmo?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C23.mp3"
+    },
+    {
+      "number": 24,
+      "source_unit": "U35",
+      "title": "Sor Aparición",
+      "actors": "Sor Aparición (Irene); Camargo; a visiting narrator; indirect witnesses",
+      "initial_conflict": "A visitor sees an elderly penitent nun and hears an account of her youth.",
+      "turning_point": "The transmitted accounts of Irene and Camargo lead the narrator to reconsider the meaning of her penance.",
+      "interpretive_caution": "The motives of Sor Aparición are interpretations, not verified first-person testimony.",
+      "questions": [
+        "¿Por qué la narradora se interesa por Sor Aparición y cómo conoce su historia?",
+        "¿Qué hace Camargo después de perder la apuesta implícita con sus amigos y cómo cambia la vida de Irene?",
+        "¿Por qué sugiere la narradora que Irene quizá hace penitencia también por Camargo? ¿Es un hecho demostrado?"
+      ],
+      "vocabulary_count": 9,
+      "audio_url": "https://ia600607.us.archive.org/16/items/CUENTOS_DE_AMOR_AUDIO_B1_B2/C24.mp3"
+    }
+  ]
+}
