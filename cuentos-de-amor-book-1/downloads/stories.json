@@ -1,0 +1,268 @@
+[
+  {
+    "n": 1,
+    "unit": 1,
+    "title": "El dominó verde",
+    "characters": "Narrador; María; mujer del dominó verde",
+    "opening": "El narrador rechaza el amor de María.",
+    "turn": "Una desconocida con dominó verde despierta su deseo.",
+    "reflection": "¿Qué cambia: María, el narrador o lo que él cree ver?",
+    "questions": [
+      "¿Por qué está contento el narrador al principio del cuento?",
+      "¿Qué hace que quiera seguir a la mujer del dominó verde?",
+      "¿Qué descubre cuando la mujer se quita el antifaz?"
+    ]
+  },
+  {
+    "n": 2,
+    "unit": 2,
+    "title": "La perla rosa",
+    "characters": "Marido narrador; Lucila; Gonzaga",
+    "opening": "Un marido trabaja y se endeuda para obsequiar a Lucila.",
+    "turn": "La búsqueda de una perla obliga a revisar lo que cree saber.",
+    "reflection": "¿Qué observa y qué interpreta el marido?",
+    "questions": [
+      "¿Por qué pide dinero prestado el marido a Gonzaga?",
+      "¿Dónde encuentra la perla que falta?",
+      "¿Qué hace el marido cuando vuelve a casa, y qué dice al final de su historia?"
+    ]
+  },
+  {
+    "n": 3,
+    "unit": 3,
+    "title": "La sirena",
+    "characters": "Ratón joven; madre ratona; gata blanca",
+    "opening": "La madre conoce el peligro que representa la gata.",
+    "turn": "El ratón joven confunde las señales y se acerca.",
+    "reflection": "¿Cómo se separan la realidad y la percepción del ratón?",
+    "questions": [
+      "¿Qué sabe la madre sobre la gata blanca?",
+      "¿Qué hace el ratón cuando ve las uñas de la gata?",
+      "¿Qué dice el ratón justo antes de morir, y por qué es importante para la historia?"
+    ]
+  },
+  {
+    "n": 4,
+    "unit": 4,
+    "title": "La cabellera de Laura",
+    "characters": "Laura; su madre; Brasilda; don Luis",
+    "opening": "Laura y su madre viven en la pobreza.",
+    "turn": "Laura decide vender su cabellera; don Luis se interesa por ella.",
+    "reflection": "¿En qué se basa el reconocimiento de Laura?",
+    "questions": [
+      "¿Por qué Laura vende su cabellera y no acepta la otra oferta de Brasilda?",
+      "¿Qué conoce don Luis de la joven cuando decide buscarla y casarse con ella?",
+      "¿Por qué no reconoce a Laura en la puerta de su casa, y qué le permite reconocerla después?"
+    ]
+  },
+  {
+    "n": 5,
+    "unit": 5,
+    "title": "Primer amor",
+    "characters": "Narrador niño; su tía; mujer del retrato",
+    "opening": "Un niño cree descubrir su primer amor.",
+    "turn": "El retrato altera sus ideas y su relación con la familia.",
+    "reflection": "¿Qué aprende el narrador sobre su propia ilusión?",
+    "questions": [
+      "¿Qué encuentra el niño en el cajón, y por qué vuelve a mirarlo cada día?",
+      "¿Cómo cambia su comportamiento con la familia y con las chicas de su edad?",
+      "¿Quién es la mujer del retrato y qué comprende el narrador al final?"
+    ]
+  },
+  {
+    "n": 6,
+    "unit": 6,
+    "title": "Champagne",
+    "characters": "Raimundo Valdés; mujer que le habla; padre de ella",
+    "opening": "Una botella de champán trae un recuerdo doloroso.",
+    "turn": "La mujer cuenta decisiones familiares y sus consecuencias.",
+    "reflection": "¿Cómo se interpreta su sonrisa al terminar?",
+    "questions": [
+      "¿Por qué la mujer no quiere casarse con el hombre elegido por su padre?",
+      "¿Qué revela durante el viaje en coche y qué consecuencias tiene para ella?",
+      "¿Por qué dice al final que ahora puede beber champán sin miedo a contar un secreto?"
+    ]
+  },
+  {
+    "n": 7,
+    "unit": 7,
+    "title": "Sangre del brazo",
+    "characters": "María de las Azucenas; marqués; Luisilla",
+    "opening": "Una boda aristocrática parece anunciar felicidad.",
+    "turn": "Una enfermedad revela distintas maneras de ofrecer ayuda.",
+    "reflection": "¿Qué demuestra el acto de Luisilla?",
+    "questions": [
+      "¿Qué creen las personas del pueblo cuando María vuelve al castillo sin su marido? ¿Saben la verdad?",
+      "Cuando el médico pide sangre, ¿qué hace el marqués y qué hace Luisilla?",
+      "¿Por qué María decide vivir con Luisilla y no regresar con su marido?"
+    ]
+  },
+  {
+    "n": 8,
+    "unit": 8,
+    "title": "Consuelo",
+    "characters": "Teodoro; su prometida; marido al que observa",
+    "opening": "Teodoro proyecta un matrimonio antes de ir a la guerra.",
+    "turn": "Una herida cambia la imagen que tiene de su futuro.",
+    "reflection": "¿Son ciertos sus temores o son suposiciones?",
+    "questions": [
+      "¿Por qué son tan cortas las cartas que Teodoro envía desde la guerra?",
+      "¿Qué imagina Teodoro sobre su novia después de perder una pierna? ¿Sabe si es verdad?",
+      "¿Por qué es importante el aspecto físico del marido que Teodoro ve al final?"
+    ]
+  },
+  {
+    "n": 9,
+    "unit": 9,
+    "title": "El encaje roto",
+    "characters": "Micaelita Aránguiz; Bernardo de Meneses",
+    "opening": "Una boda parece estar decidida.",
+    "turn": "Un encaje roto hace que Micaelita observe otra cara de Bernardo.",
+    "reflection": "¿Por qué su decisión no necesita ser comprendida por todos?",
+    "questions": [
+      "¿Qué responde Micaelita cuando el obispo le pregunta si quiere casarse?",
+      "¿Qué le ocurre al encaje y qué ve Micaelita en la cara de Bernardo?",
+      "¿Por qué Micaelita no cuenta la verdadera razón de su decisión a los invitados?"
+    ]
+  },
+  {
+    "n": 10,
+    "unit": 10,
+    "title": "La religión de Gonzalo",
+    "characters": "Beatriz; Gonzalo; Rosalía; madre de Beatriz",
+    "opening": "La familia cuestiona el amor y las creencias de Gonzalo.",
+    "turn": "Un incidente y los celos modifican la lectura de Beatriz.",
+    "reflection": "¿Qué significa la frase final sobre la iglesia?",
+    "questions": [
+      "¿Por qué no quiere la madre de Beatriz que su hija se case con Gonzalo?",
+      "¿Por qué siente celos Beatriz cuando oye hablar del duelo?",
+      "¿Quién es la mujer del insulto y qué significa la respuesta final de Beatriz?"
+    ]
+  },
+  {
+    "n": 11,
+    "unit": 11,
+    "title": "El panorama de la Princesa",
+    "characters": "Princesa Rosamor; rey; viejo visitante",
+    "opening": "La princesa enferma y nada consigue animarla.",
+    "turn": "Un visitante presenta imágenes que conmueven a Rosamor.",
+    "reflection": "¿Qué vista adquiere verdadero valor para ella?",
+    "questions": [
+      "¿Qué lleva el viejo a palacio y por qué los médicos no pueden ayudar a Rosamor?",
+      "¿Qué le pasa a la princesa cuando ve la última imagen?",
+      "¿Qué aparece realmente en esa última vista y por qué es importante?"
+    ]
+  },
+  {
+    "n": 12,
+    "unit": 12,
+    "title": "Temprano y con sol...",
+    "characters": "Finita; Currín; padre de Finita; madre de Currín",
+    "opening": "Dos niños empiezan a compartir una afición.",
+    "turn": "Un viaje a Ávila cambia el sentido de lo que ocurre entre adultos.",
+    "reflection": "¿Qué se sabe y qué se deja insinuado?",
+    "questions": [
+      "¿Qué afición hace que Finita y Currín empiecen a hablar en la escalera?",
+      "¿Por qué compran billetes para Ávila y cómo termina su viaje?",
+      "¿Qué relación aparece entre los adultos al final? ¿Sabemos con seguridad qué pasa entre ellos?"
+    ]
+  },
+  {
+    "n": 13,
+    "unit": 13,
+    "title": "Sí, señor",
+    "characters": "Agustín; condesa; narrador intermediario",
+    "opening": "Agustín ama a la condesa, pero no consigue hablar.",
+    "turn": "Una respuesta breve se interpreta de maneras distintas.",
+    "reflection": "¿Por qué importan el tiempo y las palabras no dichas?",
+    "questions": [
+      "¿Qué le pasa a Agustín cuando intenta hablar con la condesa?",
+      "¿Por qué se marcha después de responder «Sí, señor»? ¿Sabe realmente lo que piensa ella?",
+      "¿Qué descubre casi veinte años después, y qué queda sin decir claramente al final?"
+    ]
+  },
+  {
+    "n": 14,
+    "unit": 14,
+    "title": "El amor asesinado",
+    "characters": "Eva; Amor personificado",
+    "opening": "Eva quiere escapar del Amor y vivir tranquila.",
+    "turn": "Eva prepara una trampa para acabar con quien la persigue.",
+    "reflection": "¿Qué contradicción plantea el final alegórico?",
+    "questions": [
+      "¿Dónde encuentra Eva al Amor cuando intenta escapar viajando?",
+      "¿Cómo consigue Eva que el Amor entre en su trampa?",
+      "¿Qué comprende Eva cuando empieza a sentir dolor después de matar al Amor?"
+    ]
+  },
+  {
+    "n": 15,
+    "unit": 15,
+    "title": "El viajero",
+    "characters": "Marta; el viajero",
+    "opening": "Marta recibe una visita en una noche de tormenta.",
+    "turn": "La convivencia cambia, pero Marta mantiene sentimientos encontrados.",
+    "reflection": "¿Qué mezcla de alivio y espera permanece al final?",
+    "questions": [
+      "¿Por qué decide Marta abrir la puerta durante la tormenta, aunque tiene miedo?",
+      "¿Cómo se comporta el viajero con Marta a lo largo de los meses?",
+      "¿Por qué Marta espera que el viajero vuelva, aunque está más tranquila cuando él se marcha?"
+    ]
+  },
+  {
+    "n": 16,
+    "unit": 17,
+    "title": "Mi suicidio",
+    "characters": "Narrador; amada fallecida; personas de su pasado",
+    "opening": "Un hombre llora a la mujer a la que amaba.",
+    "turn": "Las cartas que encuentra alteran el recuerdo que conserva.",
+    "reflection": "¿Qué destruye al disparar y qué no puede probar?",
+    "questions": [
+      "¿Por qué quiere el narrador entrar en la habitación de la mujer muerta?",
+      "¿Qué descubre al leer las cartas, y qué cosas siguen siendo inciertas?",
+      "¿Contra quién o contra qué dispara al final? ¿Por qué cambia el sentido del título?"
+    ]
+  },
+  {
+    "n": 17,
+    "unit": 18,
+    "title": "Desquite",
+    "characters": "Trifón Liliosa; señora Vega; María Vega",
+    "opening": "Las burlas y un rechazo hieren a Trifón.",
+    "turn": "Trifón intenta vengarse mediante cartas anónimas.",
+    "reflection": "¿Por qué cambia de intención en el carruaje?",
+    "questions": [
+      "¿Qué dice la señora Vega sobre el aspecto de Trifón, y por qué él quiere vengarse?",
+      "¿Cómo consigue Trifón que María se enamore de un desconocido?",
+      "¿Qué hace Trifón en el carruaje después de escuchar a María? ¿Por qué cambia su plan?"
+    ]
+  },
+  {
+    "n": 18,
+    "unit": 25,
+    "title": "La culpable",
+    "characters": "Elisa; Adolfo; familia; sacerdote",
+    "opening": "Elisa se siente culpable desde su matrimonio.",
+    "turn": "La presión moral limita su manera de vivir el amor.",
+    "reflection": "¿Quién le atribuye culpa y qué hace ella con esa idea?",
+    "questions": [
+      "¿Por qué Elisa y Adolfo se marchan juntos y cómo reacciona la familia después de la boda?",
+      "¿Qué cosas deja de hacer Elisa porque cree que debe demostrar que es una buena esposa? ¿Cómo actúa Adolfo con ella?",
+      "¿Qué dice el sacerdote sobre el pasado de Elisa y qué pide Elisa a Adolfo antes de morir?"
+    ]
+  },
+  {
+    "n": 19,
+    "unit": 28,
+    "title": "Cuento soñado",
+    "characters": "Princesa; rey; pastor",
+    "opening": "El rey protege a la princesa aislándola en una torre.",
+    "turn": "La princesa descubre la comunicación y el amor fuera del encierro.",
+    "reflection": "¿Qué pierde al volver a la torre muchos años después?",
+    "questions": [
+      "¿Por qué vive la princesa en una torre y qué descubre el pastor junto al río?",
+      "¿Cómo consigue el pastor comunicarse con la princesa sin hablar con ella?",
+      "¿Qué echa de menos la reina cuando vuelve a la torre muchos años después?"
+    ]
+  }
+]
