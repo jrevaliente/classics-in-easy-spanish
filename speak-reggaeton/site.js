@@ -1,6 +1,7 @@
 /* Speak Reggaeton: no dependencies, no tracking, no sign-up */
 (()=>{'use strict';
 const book=window.SR_BOOK||{}, entries=Array.isArray(book.entries)?book.entries:[];
+fetch('downloads/printable_reading_companion.pdf',{method:'HEAD'}).then(r=>{if(r.ok){const a=document.getElementById('pdf-resource');if(a)a.hidden=false}}).catch(()=>{});
 const list=document.getElementById('vocab-results'),q=document.getElementById('word-search'),filter=document.getElementById('case-filter'),stat=document.getElementById('word-count');
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const term=(e)=>safe(e.term),meaning=e=>safe(e.meaning);
