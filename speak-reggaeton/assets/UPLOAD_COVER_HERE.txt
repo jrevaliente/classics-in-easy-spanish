@@ -1,0 +1,1 @@
+Upload the supplied, publisher-approved full-colour cover to this folder as cover-1600x2560.jpg. The site already points at assets/cover-1600x2560.jpg. Use the attached handoff file; do not rename or replace the approved text. The original was 1024 × 1536; the prepared 1600 × 2560 version is upscaled and reformatted, not newly rendered detail.

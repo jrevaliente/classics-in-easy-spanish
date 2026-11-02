@@ -1,0 +1,1 @@
+Audio lives on Internet Archive. The site links to the twelve user-provided MP3 URLs (CH01.mp3–CH12.mp3) directly and does not duplicate the large audio files on GitHub. Optionally upload backups here manually, but update the player URLs and monitor GitHub Pages repository size first.
