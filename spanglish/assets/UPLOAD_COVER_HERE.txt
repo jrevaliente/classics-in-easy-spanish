@@ -1,0 +1,1 @@
+UPLOAD REQUIRED: assets/cover-2400x3600.jpg, supplied separately in SPANGLISH_GITHUB_MANUAL_UPLOAD.zip. This is the user's cover upscaled from 1024 x 1536 to 2400 x 3600. Keep this exact filename.

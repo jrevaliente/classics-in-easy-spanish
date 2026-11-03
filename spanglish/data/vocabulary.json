@@ -1,0 +1,371 @@
+[
+  {
+    "term": "APLICACIÓN (REQUEST SENSE)",
+    "meaning": "application or request; the physical form may be called formulario de solicitud.",
+    "category": "contact-related semantic extension; feminine noun.",
+    "type": "contact form",
+    "chapters": [
+      6
+    ],
+    "region": "DPD aplicar(se), §2: much of America; no current frequency estimate.",
+    "example": "Recibimos tu aplicación ayer. — We received your application yesterday.",
+    "guidance": "The extension names a request. Do not assume every institution uses it for a blank application form.",
+    "source": "https://www.rae.es/dpd/aplicar"
+  },
+  {
+    "term": "APLICAR A / PARA",
+    "meaning": "apply for a job or another opportunity.",
+    "category": "contact-related semantic and syntactic extension; verb.",
+    "type": "contact form",
+    "chapters": [
+      6,
+      18
+    ],
+    "region": "DPD aplicar(se), §2: normal in much of America; audience and institutional register matter.",
+    "example": "Voy a aplicar para ese puesto. — I'm going to apply for that position.",
+    "guidance": "A plan is not a submitted application. Presentar una solicitud is a useful alternative, without condemning a documented variety.",
+    "source": "https://www.rae.es/dpd/aplicar"
+  },
+  {
+    "term": "CHATEAR (ONLINE)",
+    "meaning": "chat using an online chat service.",
+    "category": "established Spanish verb formed from English to chat and -ear.",
+    "type": "contact form",
+    "chapters": [
+      10
+    ],
+    "region": "DLE chatear²; general dictionary entry, without a U.S.-only claim.",
+    "example": "Estamos chateando sobre el archivo. — We're chatting online about the file.",
+    "guidance": "The sense and English source are documented. This does not turn every use into a language switch.",
+    "source": "https://dle.rae.es/chatear"
+  },
+  {
+    "term": "CHECAR",
+    "meaning": "check or compare in the selected reviewing sense.",
+    "category": "adapted English-derived Spanish verb, from to check.",
+    "type": "contact form",
+    "chapters": [
+      8
+    ],
+    "region": "ASALE I.1: U.S., Mexico and specified other American areas; popular register, Ecuador marked less used.",
+    "example": "Voy a checar la lista. — I'm going to check the list.",
+    "guidance": "Select a sense; other meanings include marking a check and clocking in. Do not equate every English check expression with this verb.",
+    "source": "https://www.asale.org/damer/checar"
+  },
+  {
+    "term": "CHEQUEAR",
+    "meaning": "check or review in sense I.1.",
+    "category": "adapted English-derived Spanish verb, from to check.",
+    "type": "contact form",
+    "chapters": [
+      8,
+      18
+    ],
+    "region": "ASALE I.1 includes U.S. and numerous American countries; further senses have separate geographical labels.",
+    "example": "Ya chequeé los nombres. — I already checked the names.",
+    "guidance": "The checking sense does not automatically cover every registration, baggage or social use listed elsewhere under the lemma.",
+    "source": "https://www.asale.org/damer/chequear"
+  },
+  {
+    "term": "FAXEAR",
+    "meaning": "send something by fax.",
+    "category": "Spanish verb formed on the English-derived noun fax.",
+    "type": "contact form",
+    "chapters": [
+      13
+    ],
+    "region": "DPD fax, §1; no claim about present-day prevalence.",
+    "example": "¿Puedes faxear el formulario? — Can you fax the form?",
+    "guidance": "Also printed in Cruz–Teck (1998), p. 87. The medium may be needed in some settings; an older attestation alone does not make the word obsolete.",
+    "source": "https://www.rae.es/dpd/fax"
+  },
+  {
+    "term": "GUACHIMÁN",
+    "meaning": "guard or watchman in the selected sense.",
+    "category": "watchman-derived adapted noun; ASALE labels its origin calco.",
+    "type": "contact form",
+    "chapters": [],
+    "region": "ASALE I.1 lists Mexico, much of Central America, the Dominican Republic and several South American countries; popular/spontaneous use.",
+    "example": "Hablemos con el guachimán. — Let's speak with the guard.",
+    "guidance": "The source's etymological label is retained here. In this book's form-versus-meaning analysis it illustrates adaptation of English material, rather than a word-for-word translation into existing Spanish words.",
+    "source": "https://www.asale.org/damer/guachim%C3%A1n"
+  },
+  {
+    "term": "GUÁCHIMAN",
+    "meaning": "guard or watchman.",
+    "category": "watchman-derived adapted noun; source-specific variant.",
+    "type": "contact form",
+    "chapters": [],
+    "region": "ASALE I.1: Puerto Rico; compare the linked guachimán entry.",
+    "example": "El guáchiman vigila la entrada. — The guard watches the entrance.",
+    "guidance": "The written accent distinguishes the documented stress pattern. Do not apply the Puerto Rican label automatically to every spelling variant.",
+    "source": "https://www.asale.org/damer/gu%C3%A1chiman"
+  },
+  {
+    "term": "HANGUEAR",
+    "meaning": "go out for fun.",
+    "category": "documented variant linked to janguear.",
+    "type": "contact form",
+    "chapters": [
+      14
+    ],
+    "region": "ASALE I.1: Puerto Rico; spontaneous socializing sense.",
+    "example": "¿Van a hanguear el sábado? — Are they going out Saturday?",
+    "guidance": "This is a reference variant, not an instruction to change the characters' accent.",
+    "source": "https://www.asale.org/damer/hanguear"
+  },
+  {
+    "term": "JANGUEAR",
+    "meaning": "socialize, go out for enjoyment; selected senses vary.",
+    "category": "adapted English-derived Spanish verb, from to hang (around).",
+    "type": "contact form",
+    "chapters": [
+      3,
+      14,
+      18
+    ],
+    "region": "ASALE I.1: U.S., popular; I.2: Puerto Rico, spontaneous popular/educated use.",
+    "example": "¿Quieres janguear el sábado? — Want to hang out Saturday?",
+    "guidance": "These senses concern social activity or being unoccupied, not hanging a picture on a wall. Region labels do not compel anyone to use it.",
+    "source": "https://www.asale.org/damer/janguear"
+  },
+  {
+    "term": "JANGUEO",
+    "meaning": "relaxed socializing with companions, conversation or jokes.",
+    "category": "related Spanish noun in the contact-derived lexical family.",
+    "type": "contact form",
+    "chapters": [
+      14
+    ],
+    "region": "ASALE I.1: Puerto Rico; popular/educated spontaneous use; no U.S. label in this entry.",
+    "example": "Un jangueo tranquilo en el café. — A relaxed hangout at the café.",
+    "guidance": "A noun and its related verb can have different dictionary distributions. Do not copy the verb's labels into this entry.",
+    "source": "https://www.asale.org/damer/jangueo"
+  },
+  {
+    "term": "JANGUIAR",
+    "meaning": "janguear in the sense selected by context.",
+    "category": "documented variant linked to janguear.",
+    "type": "contact form",
+    "chapters": [
+      14
+    ],
+    "region": "ASALE I.1: U.S. and Puerto Rico.",
+    "example": "No puedo janguiar esta noche. — I can't hang out tonight.",
+    "guidance": "A linked variant documents that spelling; it does not license unlimited respelling.",
+    "source": "https://www.asale.org/damer/janguiar"
+  },
+  {
+    "term": "LONCHE",
+    "meaning": "light midday meal in sense I.1.",
+    "category": "adapted English-derived masculine noun, from lunch.",
+    "type": "contact form",
+    "chapters": [
+      9
+    ],
+    "region": "ASALE I.1 includes U.S., Mexico and specified other areas; Puerto Rico marked less used. Afternoon and miner's-meal senses have different labels.",
+    "example": "Traje un lonche para el viaje. — I brought a light meal for the trip.",
+    "guidance": "Food and its container are different referents. Do not infer an English midday meaning for every regional sense.",
+    "source": "https://www.asale.org/damer/lonche"
+  },
+  {
+    "term": "LONCHEAR",
+    "meaning": "eat a lonche or have a light meal in the documented senses.",
+    "category": "regional Spanish verb related to the English-derived noun lonche.",
+    "type": "contact form",
+    "chapters": [
+      9
+    ],
+    "region": "ASALE I.1: Mexico, Nicaragua; Ecuador popular. I.2: transitive use in Mexico.",
+    "example": "Vamos a lonchear al mediodía. — Let's have lunch at noon.",
+    "guidance": "The cited entry does not give a U.S. tag. Related forms need separate documentation.",
+    "source": "https://www.asale.org/damer/lonchear"
+  },
+  {
+    "term": "LONCHERA",
+    "meaning": "lunch box; portable container for food.",
+    "category": "documented Spanish noun in the lunch-related lexical family.",
+    "type": "contact form",
+    "chapters": [
+      4,
+      9
+    ],
+    "region": "ASALE I.1 includes U.S. and many American countries and highlights use by schoolchildren.",
+    "example": "La lonchera está vacía. — The lunch box is empty.",
+    "guidance": "The fictional adult use is an authored situation; this entry does not establish its frequency in a particular Texas household.",
+    "source": "https://www.asale.org/damer/lonchera"
+  },
+  {
+    "term": "PARQUEAR",
+    "meaning": "park a vehicle in sense I.1.",
+    "category": "adapted English-derived Spanish verb, from to park.",
+    "type": "contact form",
+    "chapters": [
+      1,
+      18,
+      3
+    ],
+    "region": "ASALE I.1: U.S., northern Mexico and numerous American areas; other senses and pronominal uses have their own labels.",
+    "example": "¿Ya parqueaste la troca? — Have you parked the truck yet?",
+    "guidance": "Parqueé and parqueaste have Spanish person/tense endings. Estacionar is an alternative, not a universal correction.",
+    "source": "https://www.asale.org/damer/parquear"
+  },
+  {
+    "term": "PRINTEAR",
+    "meaning": "print using a printer.",
+    "category": "adapted English-derived Spanish verb, from to print.",
+    "type": "contact form",
+    "chapters": [
+      3,
+      8,
+      13,
+      18
+    ],
+    "region": "ASALE I.1: U.S., El Salvador, Puerto Rico; Ecuador marked less used.",
+    "example": "Voy a printear las páginas aprobadas. — I'll print the approved pages.",
+    "guidance": "Cruz–Teck (1998), printed p. 87, PDF p. 89, is historical attestation. Neither source establishes its prevalence in every office today.",
+    "source": "https://www.asale.org/damer/printear"
+  },
+  {
+    "term": "REPORTAR",
+    "meaning": "report or communicate information to someone.",
+    "category": "documented English-influenced Spanish verb; selected communication sense.",
+    "type": "contact form",
+    "chapters": [
+      8,
+      18
+    ],
+    "region": "ASALE I.3 includes U.S. and specified American countries; other reporting or pronominal senses differ.",
+    "example": "Voy a reportar el error. — I'm going to report the error.",
+    "guidance": "The plan does not establish that a report has been made or a problem repaired. Reportarse has additional meanings; consult the relevant sense.",
+    "source": "https://www.asale.org/damer/reportar"
+  },
+  {
+    "term": "RESETEAR",
+    "meaning": "restart in the computing sense; specify the intended operation.",
+    "category": "established Spanish verb formed from English to reset and -ear.",
+    "type": "contact form",
+    "chapters": [
+      10
+    ],
+    "region": "DLE resetear, computing sense; no claim of a special regional distribution.",
+    "example": "Antes de resetear el equipo, aclaremos qué hace falta. — Before resetting the device, let's clarify what's needed.",
+    "guidance": "Reset is not a safe universal instruction: distinguish restarting from restoring settings or erasing data in the particular context.",
+    "source": "https://dle.rae.es/resetear"
+  },
+  {
+    "term": "RUFO",
+    "meaning": "roof of a building.",
+    "category": "adapted English-derived masculine noun, from roof.",
+    "type": "contact form",
+    "chapters": [],
+    "region": "ASALE I.1: U.S.; the entry gives no current frequency measure.",
+    "example": "El rufo necesita reparación. — The roof needs repairs.",
+    "guidance": "A U.S. record does not establish Miami-only use. Ask which roof or part of it when the task needs precision.",
+    "source": "https://www.asale.org/damer/rufo"
+  },
+  {
+    "term": "SUÉTER",
+    "meaning": "sweater.",
+    "category": "established adapted Spanish loan, from sweater.",
+    "type": "contact form",
+    "chapters": [
+      7
+    ],
+    "region": "DLE, masculine noun; no U.S.-only label.",
+    "example": "Los suéteres azules están listos. — The blue sweaters are ready.",
+    "guidance": "The Spanish plural and adjective agreement are ordinary Spanish grammar; English origin does not make each occurrence a switch.",
+    "source": "https://dle.rae.es/su%C3%A9ter"
+  },
+  {
+    "term": "TROCA",
+    "meaning": "cargo truck or pickup in separately recorded senses.",
+    "category": "adapted English-derived feminine noun, from truck.",
+    "type": "contact form",
+    "chapters": [
+      1,
+      4,
+      12,
+      16,
+      18
+    ],
+    "region": "ASALE I.1: U.S. Southwest, northern Mexico, Nicaragua, cargo truck; I.2: El Salvador, pickup.",
+    "example": "La troca está afuera. — The truck is outside.",
+    "guidance": "Do not infer one vehicle model from the lemma alone. Its unrelated Peruvian sense is outside this course's transport example.",
+    "source": "https://www.asale.org/damer/troca"
+  },
+  {
+    "term": "YARDA (GARDEN/COURTYARD)",
+    "meaning": "yard or garden area belonging to a building.",
+    "category": "English-derived feminine noun in the selected yard sense.",
+    "type": "contact form",
+    "chapters": [],
+    "region": "ASALE I.1: U.S. Southwest, northern Honduras, Panama.",
+    "example": "Hay herramientas en la yarda. — There are tools in the yard.",
+    "guidance": "This sense is distinct from the unit of length. A shared spelling does not establish a shared referent.",
+    "source": "https://www.asale.org/damer/yarda"
+  },
+  {
+    "term": "YONQUE",
+    "meaning": "vehicle salvage yard or junkyard.",
+    "category": "adapted English-derived masculine noun; source etymon junker.",
+    "type": "contact form",
+    "chapters": [],
+    "region": "ASALE I.1: U.S. Southwest and Mexico.",
+    "example": "Busquemos la pieza en el yonque. — Let's look for the part at the salvage yard.",
+    "guidance": "The source supports the selected sense and labels, not the existence of a particular business or present-day frequency.",
+    "source": "https://www.asale.org/damer/yonque"
+  },
+  {
+    "term": "AHORITA",
+    "meaning": "in a moment/later; now or a recent past in other listed senses.",
+    "category": "regional Spanish time adverb; no English origin asserted.",
+    "type": "regional comparison",
+    "chapters": [
+      10,
+      18
+    ],
+    "region": "ASALE I.1 includes the U.S. and many American regions for a near future; I.2 lists a recent past with distinct labels; I.3 lists Venezuela, Ecuador and Bolivia for present time.",
+    "example": "¿Nos vemos ahorita? — Shall we meet in a little while? (provisional contextual reading).",
+    "guidance": "Confirm an agreed time when precision matters; the translation is not a universal fixed-minute definition.",
+    "source": "https://www.asale.org/damer/ahorita"
+  },
+  {
+    "term": "CORILLO",
+    "meaning": "a lively group of young people in the selected sense.",
+    "category": "regional Spanish masculine noun; no English derivation asserted.",
+    "type": "regional comparison",
+    "chapters": [],
+    "region": "ASALE I.1: Puerto Rico; popular/educated spontaneous use.",
+    "example": "El corillo llegó temprano. — The group arrived early.",
+    "guidance": "The source's youth-related meaning is narrower than a universal word for friends. No claim is made about every U.S. Latino community.",
+    "source": "https://www.asale.org/damer/corillo"
+  },
+  {
+    "term": "GUAGUA",
+    "meaning": "bus in the selected transport sense; baby or child in separately recorded senses.",
+    "category": "regional polysemy; no English derivation asserted here.",
+    "type": "regional comparison",
+    "chapters": [
+      5,
+      18
+    ],
+    "region": "ASALE II.1: northwestern Mexico, western Guatemala, Cuba, Dominican Republic, Puerto Rico; II.2: larger passenger vehicle in Puerto Rico. Child senses I.1–2 have different American labels.",
+    "example": "¿A qué hora pasa la guagua? — What time does the bus come by? (transport context).",
+    "guidance": "Do not assign a speaker's origin from the noun or file every sense under a single etymology.",
+    "source": "https://www.asale.org/damer/guagua"
+  },
+  {
+    "term": "PANA (FRIEND)",
+    "meaning": "close friend or companion in the selected sense.",
+    "category": "regional polysemous noun; no English derivation asserted here.",
+    "type": "regional comparison",
+    "chapters": [
+      17
+    ],
+    "region": "ASALE I.1 includes U.S., Mexico, Panama, Dominican Republic, Puerto Rico, Venezuela, Ecuador, western Bolivia and additional youth-register records.",
+    "example": "Gracias por venir, pana. — Thanks for coming, buddy.",
+    "guidance": "Other senses include a breakdown or breadfruit in their specified regions. Familiar address needs relationship and context.",
+    "source": "https://www.asale.org/damer/pana"
+  }
+]
