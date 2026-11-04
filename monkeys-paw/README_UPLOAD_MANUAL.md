@@ -1,0 +1,3 @@
+# Manual uploads for The Monkey’s Paw
+
+The main page and all text materials are already committed. The following binary files cannot be attached through the text-only connector: `assets/cover-web.webp`, `assets/cover-high-resolution.png`, `downloads/printable_reading_companion.pdf`. Upload them from THE_MONKEYS_PAW_GITHUB_UPLOAD_READY_V01_20261104.zip, preserving paths. The live reader page is https://jrevaliente.github.io/classics-in-easy-spanish/monkeys-paw/. Three audio tracks use external Internet Archive links from Audio.txt; do NOT reupload those MP3s unless hosting requirements change. Other books in this repository are not altered.

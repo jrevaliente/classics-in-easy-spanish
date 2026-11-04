@@ -1,0 +1,1 @@
+Cover assets supplied by the owner. Upload cover-web.webp and cover-high-resolution.png from the accompanying ZIP. 1600 × 2560 PNG is an UPSCALE of the 992 × 1586 original, not a native high-resolution render.

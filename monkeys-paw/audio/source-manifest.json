@@ -1,0 +1,25 @@
+{
+  "work": "The Monkey’s Paw in Easy Spanish",
+  "collection": "https://archive.org/details/The_Monkeys_Paw_in_Easy_Spanish",
+  "source": "Audio.txt provided by the owner 2026-11-04",
+  "tracks": [
+    {
+      "part": "I",
+      "file": "01.mp3",
+      "url": "https://ia601603.us.archive.org/10/items/The_Monkeys_Paw_in_Easy_Spanish/01.mp3"
+    },
+    {
+      "part": "II",
+      "file": "02.mp3",
+      "url": "https://ia601603.us.archive.org/10/items/The_Monkeys_Paw_in_Easy_Spanish/02.mp3"
+    },
+    {
+      "part": "III",
+      "file": "03.mp3",
+      "url": "https://ia601603.us.archive.org/10/items/The_Monkeys_Paw_in_Easy_Spanish/03.mp3"
+    }
+  ],
+  "hosting": "Internet Archive (external)",
+  "availability": "URLs supplied by owner; live stream playback unverified",
+  "license": "Owner must confirm recording rights; no rights are assumed from archive availability."
+}
