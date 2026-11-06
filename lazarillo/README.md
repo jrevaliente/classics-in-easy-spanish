@@ -1,0 +1,3 @@
+# El Lazarillo de Tormes in Easy Spanish — Book 15
+
+Technical reader companion. The book's level B1 and the audio links remain editorially unverified for final release. The 18 user-provided MP3s stay on Archive.org; no MP3s are stored in this repository. The owner's front cover is not uploaded yet; the web page uses a local typographic SVG until assets/cover-web.webp is manually added. Copy the manually supplied cover-web.webp and cover-high-resolution.png to assets/ without renaming. The pages include vocabulary, 18 audio tracks, Anki, timeline, character map and printable companion. No full retelling or historical translation is redistributed.
