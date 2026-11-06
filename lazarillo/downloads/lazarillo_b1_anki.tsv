@@ -2,7 +2,8 @@
 #html:false
 #notetype:Basic
 #deck:Classics in Easy Spanish::El Lazarillo de Tormes
-Front	Back	Tags
+#columns:Front	Back	Tags
+#tags column:3
 el acero	steel; here the sword blade — Chapter 3 · El criado pone la mesa	lazarillo_b1 item_001
 el acreedor	person to whom money is owed — Chapter 3 · La honra y los acreedores	lazarillo_b1 item_002
 el agua bendita	holy water. Agua is feminine. Singular el agua keeps a feminine adjective: bendita. In the story: «Llegaron una cruz y agua bendita» — Chapter 5 · La iglesia llena	lazarillo_b1 item_003
