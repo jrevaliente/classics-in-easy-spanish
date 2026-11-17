@@ -1,6 +1,6 @@
 # Continuidad — Classics in Easy Catalan
 
-Actualizado: 17 noviembre 2026. Companion construido; publicación y QA de la web pública en curso.
+Actualizado: 17 noviembre 2026. Companion publicado y QA de la web pública completado.
 
 ## Solicitud autorizada
 Crear y configurar el companion en este repositorio, con portada original, diez audios, Vocabulary CSV, Anki y flashcards, Conflict Timeline, Character & Conflict Map y Printable Reading Companion. Subir todo lo posible, crear las carpetas y entregar un ZIP de respaldo. El usuario autoriza publicar en main y GitHub Pages.
@@ -22,12 +22,22 @@ Crear y configurar el companion en este repositorio, con portada original, diez 
 - Printable Reading Companion: 60 preguntas y respuestas del manuscrito; soluciones HTML plegadas y separadas. PDF de actividades sin soluciones (10 páginas) y PDF separado de soluciones (10 páginas). Revisión visual de páginas representativas realizada.
 - Validados enlaces locales y anclas, recuentos JSON/CSV/TSV/APKG y checksum de portada. JavaScript supera node --check.
 
-## Punto actual y siguiente trabajo
-1. Subir el conjunto a main con actualización protegida contra cambios concurrentes.
-2. Comprobar el despliegue Pages y la página pública, sus descargas y las interacciones en navegador. La vista local no es accesible desde el navegador remoto; revisar la URL pública tras desplegar.
-3. Registrar aquí commit, despliegue y resultados finales. Entregar ZIP y especificar solo cargas manuales realmente pendientes.
+## Último punto verificado — publicación y QA completados
+- Publicación de los 21 archivos del companion en main: commit `9b4b717e7b3b7dedf02ff12f260369750912f05b`.
+- GitHub Pages: ejecución `44057921792`, estado completed / success. URL: https://github.com/jrevaliente/classics-in-easy-spanish/actions/runs/44057921792
+- Los 21 archivos se recuperaron desde la web pública con HTTP 200 y bytes idénticos a ese commit, incluidas portada, CSV, TSV, APKG, PDFs, JSON, CSS y JavaScript.
+- Navegador de escritorio: portada y diseño revisados; búsqueda `aguila` encuentra `àguila`; revelar/ocultar, dirección inversa, filtro del capítulo 7 (20 entradas), anterior/siguiente, barajar y cero resultados comprobados.
+- Reproducción iniciada para capítulos 7 y 10; ambos alcanzan readyState 4 y avance de tiempo. Velocidad 0.85× comprobada; empezar el 10 pausa el 7. Se dejaron los reproductores pausados a 1×. No constituye escucha integral.
+- Navegación de timeline, mapa de personajes y printable comprobada; las diez soluciones HTML están cerradas inicialmente y se probó abrir/cerrar una. PDFs de actividades y soluciones siguen separados.
+- ZIP de respaldo: `CLASSICS_IN_EASY_CATALAN_COMPANION_VERIFICADO_20261117.zip`, con carpeta completa, continuidad y QA actualizados. No hay cargas manuales pendientes para esta entrega.
+- Comprobaciones estructurales repetidas: JSON y CSV 163 entradas; SQLite APKG 163 notas y 163 tarjetas; checksum de portada original correcto.
 
-## URL prevista
+## Estado y trabajo pendiente
+La entrega web solicitada está completada. No volver a subir ni regenerar estos recursos por el mero hecho de abrir otro chat. Solo continuar con nuevas instrucciones o fallos concretos observados.
+
+Límites conservados: sin escucha completa ni cotejo palabra por palabra; sin prueba de importación en la aplicación Anki; sin nueva revisión móvil en navegador en este cierre. El original de portada es 1024 × 1536; una resolución superior requiere otra fuente.
+
+## URL pública
 https://jrevaliente.github.io/classics-in-easy-spanish/classics-in-easy-catalan/
 
 ## Para continuar
