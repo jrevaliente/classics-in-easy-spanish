@@ -42,3 +42,7 @@ https://jrevaliente.github.io/classics-in-easy-spanish/classics-in-easy-catalan/
 
 ## Para continuar
 Leer este archivo y el estado real de GitHub main. Continuar desde el último punto comprobado. No regenerar recursos ya publicados sin motivo. No afirmar que se hizo escucha completa de los audios ni sincronización con el manuscrito.
+
+## 18 noviembre 2026 — autosuficiencia Kindle V1.2
+
+El companion es independiente y opcional. Se añadió una nota expresa en index.html, commit `717059344170006fd768405bbec94110e9164c86`. Todos los recursos existentes permanecen intactos: 10 pistas, Anki, CSV, mapas, timeline y printable. El manuscrito BOOK01 ha sido reparado por separado; Kindle no requiere web, audio, apps ni impresión. No se han regenerado audios ni cambiado URLs. El despliegue de esta modificación requiere verificación; no equivale a aprobación KDP ni sincronización integral del audio. KINDLE PUBLICATION READY = HOLD hasta EPUB final real.
