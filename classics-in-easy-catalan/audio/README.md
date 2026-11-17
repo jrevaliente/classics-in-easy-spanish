@@ -1,0 +1,1 @@
+Audio is hosted on Internet Archive; tracks.json preserves the ten supplied tracks in order. Verified archive filenames for chapters 7 and 10 are `07 .mp3` and `10 .mp3`. Their URLs contain `%20`. No local MP3 upload is required. HTTP availability is separate from full listening and text synchronization QA.

@@ -1,0 +1,2012 @@
+[
+  {
+    "id": "word-1",
+    "word": "abandonar",
+    "pos": "verb",
+    "meaning": "to abandon; leave behind.",
+    "form": "abandonat.",
+    "context": "the brothers and father leave the boy in the well.",
+    "example": "No vol abandonar els seus companys.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-2",
+    "word": "accedir",
+    "pos": "verb",
+    "meaning": "to agree; to consent.",
+    "form": "va accedir.",
+    "context": "the father agrees to the bargain.",
+    "example": "Va accedir a la petició.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-3",
+    "word": "acordat, acordada",
+    "pos": "adjective",
+    "meaning": "agreed.",
+    "form": "acordat.",
+    "context": "el dia acordat.",
+    "example": "Ens trobem el dia acordat.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-4",
+    "word": "agraïment",
+    "pos": "masculine noun",
+    "meaning": "gratitude.",
+    "form": "agraïment.",
+    "context": "gratitude for her actions.",
+    "example": "Li va donar les gràcies en senyal d’agraïment.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-5",
+    "word": "àguila",
+    "pos": "feminine noun",
+    "meaning": "eagle.",
+    "form": "àguila.",
+    "context": "A large bird of prey.",
+    "example": "Una àguila volava per damunt de les muntanyes.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-6",
+    "word": "agulla",
+    "pos": "feminine noun",
+    "meaning": "needle.",
+    "form": "agulles.",
+    "context": "A small pointed object.",
+    "example": "Va trobar una agulla al costat del fil.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-7",
+    "word": "alliberar",
+    "pos": "verb",
+    "meaning": "to free; release.",
+    "form": "alliberar.",
+    "context": "release from a spell.",
+    "example": "La noia va alliberar el presoner.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-8",
+    "word": "ametlla",
+    "pos": "feminine noun",
+    "meaning": "almond.",
+    "form": "ametlla.",
+    "context": "li va donar una ametlla.",
+    "example": "Menjo una ametlla.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-9",
+    "word": "ampolleta",
+    "pos": "feminine noun (diminutive)",
+    "meaning": "little bottle.",
+    "form": "ampolleta.",
+    "context": "a small container for blood.",
+    "example": "Duu una ampolleta d’aigua.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-10",
+    "word": "anar-se’n",
+    "pos": "pronominal verb",
+    "meaning": "to go away / leave.",
+    "form": "ves-te’n.",
+    "context": "ves-te’n.",
+    "example": "Me’n vaig ara.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-11",
+    "word": "anell",
+    "pos": "masculine noun",
+    "meaning": "ring.",
+    "form": "anell.",
+    "context": "a diamond ring.",
+    "example": "Porta un anell de plata.",
+    "chapters": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "word-12",
+    "word": "aprenent, aprenenta",
+    "pos": "noun",
+    "meaning": "apprentice.",
+    "form": "aprenent.",
+    "context": "l’aprenent del ferrer.",
+    "example": "L’aprenent treballa amb el mestre.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-13",
+    "word": "arc",
+    "pos": "masculine noun",
+    "meaning": "bow.",
+    "form": "arc.",
+    "context": "va preparar l’arc.",
+    "example": "Té un arc de fusta.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-14",
+    "word": "arrencar",
+    "pos": "verb",
+    "meaning": "to pull out; uproot.",
+    "form": "arrencar.",
+    "context": "va fer arrencar les canyes.",
+    "example": "Va arrencar una mala herba.",
+    "chapters": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "word-15",
+    "word": "arriscar",
+    "pos": "verb",
+    "meaning": "to risk.",
+    "form": "arriscar.",
+    "context": "hi va arriscar tots els seus diners.",
+    "example": "No vull arriscar els meus diners.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-16",
+    "word": "arròs",
+    "pos": "masculine noun",
+    "meaning": "rice.",
+    "form": "arròs.",
+    "context": "un sac d’arròs.",
+    "example": "L’arròs és al plat.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-17",
+    "word": "assecar-se",
+    "pos": "pronominal verb",
+    "meaning": "to dry up.",
+    "form": "es van assecar.",
+    "context": "the leaves dried up.",
+    "example": "Les plantes s’assequen sense aigua.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-18",
+    "word": "avellana",
+    "pos": "feminine noun",
+    "meaning": "hazelnut.",
+    "form": "avellana.",
+    "context": "li va donar una avellana.",
+    "example": "Obre l’avellana.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-19",
+    "word": "ball",
+    "pos": "masculine noun",
+    "meaning": "dance; ball.",
+    "form": "ball.",
+    "context": "van anar al ball del príncep.",
+    "example": "Van anar a un ball.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-20",
+    "word": "ballesta",
+    "pos": "feminine noun",
+    "meaning": "crossbow.",
+    "form": "ballestes.",
+    "context": "les seves ballestes.",
+    "example": "La ballesta llança una fletxa.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-21",
+    "word": "barba",
+    "pos": "feminine noun",
+    "meaning": "beard.",
+    "form": "barba.",
+    "context": "una barba d’or.",
+    "example": "L’home té una barba llarga.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-22",
+    "word": "batre",
+    "pos": "verb",
+    "meaning": "to thresh.",
+    "form": "batre’l.",
+    "context": "Separate grain from its stalks.",
+    "example": "Després de la sega, baten el cereal per obtenir-ne el gra.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-23",
+    "word": "blat",
+    "pos": "masculine noun",
+    "meaning": "wheat.",
+    "form": "blat.",
+    "context": "Wheat grown for grain.",
+    "example": "A la primavera el camp de blat encara era verd.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-24",
+    "word": "bocí",
+    "pos": "masculine noun",
+    "meaning": "piece, fragment.",
+    "form": "bocins.",
+    "context": "en mil bocins.",
+    "example": "El got s’ha trencat en bocins.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-25",
+    "word": "bou",
+    "pos": "masculine noun",
+    "meaning": "ox.",
+    "form": "bou.",
+    "context": "va passar un bou.",
+    "example": "El bou és al camp.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-26",
+    "word": "brida",
+    "pos": "feminine noun",
+    "meaning": "bridle.",
+    "form": "brida.",
+    "context": "Equipment used to guide a horse.",
+    "example": "El genet agafa la brida.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-27",
+    "word": "bruixa",
+    "pos": "feminine noun",
+    "meaning": "witch.",
+    "form": "bruixa.",
+    "context": "era una bruixa.",
+    "example": "La bruixa viu al bosc.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-28",
+    "word": "burlar-se de",
+    "pos": "pronominal verb",
+    "meaning": "to make fun of.",
+    "form": "se’n burlaven.",
+    "context": "se’n burlaven.",
+    "example": "No et burlis dels altres.",
+    "chapters": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": "word-29",
+    "word": "caldera",
+    "pos": "feminine noun",
+    "meaning": "cauldron.",
+    "form": "caldera.",
+    "context": "una gran caldera.",
+    "example": "Escalfen l’aigua a la caldera.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-30",
+    "word": "cama",
+    "pos": "feminine noun",
+    "meaning": "leg.",
+    "form": "cama.",
+    "context": "un mal a la cama.",
+    "example": "Em fa mal la cama.",
+    "chapters": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "word-31",
+    "word": "campaneta",
+    "pos": "feminine noun",
+    "meaning": "little bell.",
+    "form": "campanetes.",
+    "context": "un vestit ple de campanetes.",
+    "example": "La campaneta sona.",
+    "chapters": [
+      4,
+      8,
+      9
+    ]
+  },
+  {
+    "id": "word-32",
+    "word": "canari",
+    "pos": "masculine noun",
+    "meaning": "canary.",
+    "form": "canari.",
+    "context": "the bird whose feathers decorate the dress.",
+    "example": "El canari canta al matí.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-33",
+    "word": "canya",
+    "pos": "feminine noun",
+    "meaning": "reed.",
+    "form": "canyes.",
+    "context": "van créixer unes canyes.",
+    "example": "Hi ha canyes al costat del riu.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-34",
+    "word": "carbonera",
+    "pos": "feminine noun",
+    "meaning": "coal store.",
+    "form": "carbonera.",
+    "context": "Place where coal is stored.",
+    "example": "Guardaven el carbó a la carbonera.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-35",
+    "word": "casament",
+    "pos": "masculine noun",
+    "meaning": "wedding.",
+    "form": "casament.",
+    "context": "the celebration of a marriage.",
+    "example": "El casament és dissabte.",
+    "chapters": [
+      7,
+      2,
+      10
+    ]
+  },
+  {
+    "id": "word-36",
+    "word": "casar-se amb",
+    "pos": "pronominal verb",
+    "meaning": "to marry.",
+    "form": "casar amb mi.",
+    "context": "Et voldries casar amb mi?",
+    "example": "Es vol casar amb la seva parella.",
+    "chapters": [
+      1,
+      2,
+      4,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "word-37",
+    "word": "catifa",
+    "pos": "feminine noun",
+    "meaning": "carpet; rug.",
+    "form": "catifa.",
+    "context": "una catifa màgica.",
+    "example": "Hi ha una catifa a terra.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-38",
+    "word": "cendra",
+    "pos": "feminine noun",
+    "meaning": "ash.",
+    "form": "cendres.",
+    "context": "al costat del foc i de les cendres.",
+    "example": "Escombra les cendres.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-39",
+    "word": "cinta",
+    "pos": "feminine noun",
+    "meaning": "ribbon.",
+    "form": "cinta.",
+    "context": "una cinta blava.",
+    "example": "La cinta és blava.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-40",
+    "word": "clavar",
+    "pos": "verb",
+    "meaning": "to lodge; drive into.",
+    "form": "clavar.",
+    "context": "La va clavar al mig del sol.",
+    "example": "Va clavar el clau a la fusta.",
+    "chapters": [
+      5,
+      6,
+      10
+    ]
+  },
+  {
+    "id": "word-41",
+    "word": "closca",
+    "pos": "feminine noun",
+    "meaning": "shell; husk.",
+    "form": "closca.",
+    "context": "treure’n la closca.",
+    "example": "Treu la closca de l’ou.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-42",
+    "word": "clot",
+    "pos": "masculine noun",
+    "meaning": "hole in the ground.",
+    "form": "clot.",
+    "context": "va fer un clot.",
+    "example": "Va fer un clot per plantar un arbre.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-43",
+    "word": "collaret",
+    "pos": "masculine noun",
+    "meaning": "necklace.",
+    "form": "collaret.",
+    "context": "gift for the youngest daughter.",
+    "example": "Es va posar un collaret vermell.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-44",
+    "word": "complir",
+    "pos": "verb",
+    "meaning": "to keep; fulfill.",
+    "form": "compliria.",
+    "context": "keeping a promise.",
+    "example": "Cal complir les promeses.",
+    "chapters": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "word-45",
+    "word": "condemnar",
+    "pos": "verb",
+    "meaning": "to sentence; condemn.",
+    "form": "condemnar.",
+    "context": "El va condemnar a mort.",
+    "example": "El jutge va condemnar l’acusat.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-46",
+    "word": "condició",
+    "pos": "feminine noun",
+    "meaning": "condition.",
+    "form": "condició.",
+    "context": "the rule attached to permission.",
+    "example": "Va acceptar amb una condició.",
+    "chapters": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "word-47",
+    "word": "conjur",
+    "pos": "masculine noun",
+    "meaning": "spell; incantation.",
+    "form": "conjurs.",
+    "context": "feien conjurs.",
+    "example": "La bruixa va fer un conjur.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-48",
+    "word": "conreu",
+    "pos": "masculine noun",
+    "meaning": "cultivation; farming.",
+    "form": "conreu.",
+    "context": "Cultivation; in terra de conreu, farmland.",
+    "example": "El pagès va preparar la terra per al conreu de cereals.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-49",
+    "word": "corall",
+    "pos": "masculine noun",
+    "meaning": "coral.",
+    "form": "corall.",
+    "context": "material used for the necklace.",
+    "example": "El collaret és de corall.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-50",
+    "word": "corda",
+    "pos": "feminine noun",
+    "meaning": "rope.",
+    "form": "corda.",
+    "context": "the rope used to descend and ascend.",
+    "example": "Va lligar la caixa amb una corda.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-51",
+    "word": "corona",
+    "pos": "feminine noun",
+    "meaning": "crown.",
+    "form": "corona.",
+    "context": "perdria la corona.",
+    "example": "El rei porta una corona.",
+    "chapters": [
+      3,
+      2
+    ]
+  },
+  {
+    "id": "word-52",
+    "word": "corretja",
+    "pos": "feminine noun",
+    "meaning": "strap.",
+    "form": "corretges.",
+    "context": "unes corretges per al cap del cavall.",
+    "example": "La bossa té una corretja de cuir.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-53",
+    "word": "cosina",
+    "pos": "feminine noun",
+    "meaning": "female cousin.",
+    "form": "cosina.",
+    "context": "una cosina que vivia lluny.",
+    "example": "La meva cosina viu a Girona.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-54",
+    "word": "cova",
+    "pos": "feminine noun",
+    "meaning": "cave.",
+    "form": "cova.",
+    "context": "arribaven de seguida a una cova.",
+    "example": "La cova era fosca.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-55",
+    "word": "criat, criada",
+    "pos": "noun",
+    "meaning": "servant.",
+    "form": "criats.",
+    "context": "els esperaven criats.",
+    "example": "El criat obre la porta.",
+    "chapters": [
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "id": "word-56",
+    "word": "cristall",
+    "pos": "masculine noun",
+    "meaning": "glass (here: crystal glass).",
+    "form": "cristall.",
+    "context": "de cristall.",
+    "example": "La copa és de cristall.",
+    "chapters": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "word-57",
+    "word": "cua",
+    "pos": "feminine noun",
+    "meaning": "tail.",
+    "form": "cua.",
+    "context": "a la cua.",
+    "example": "El gos mou la cua.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-58",
+    "word": "curar-se",
+    "pos": "pronominal verb",
+    "meaning": "to get well; recover.",
+    "form": "es curava.",
+    "context": "si una persona malalta olorava la poma, es curava.",
+    "example": "Es va curar al cap de pocs dies.",
+    "chapters": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "word-59",
+    "word": "de cop",
+    "pos": "adverbial expression",
+    "meaning": "all of a sudden.",
+    "form": "de cop.",
+    "context": "I, de cop.",
+    "example": "De cop, va començar a ploure.",
+    "chapters": [
+      1,
+      6,
+      8,
+      10
+    ]
+  },
+  {
+    "id": "word-60",
+    "word": "descoratjar",
+    "pos": "verb",
+    "meaning": "to discourage; (descoratjat) discouraged.",
+    "form": "Descoratjat.",
+    "context": "the prince loses confidence before the first impossible task.",
+    "example": "La notícia la va descoratjar.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-61",
+    "word": "discutir",
+    "pos": "verb",
+    "meaning": "to argue.",
+    "form": "discutir.",
+    "context": "van començar a discutir.",
+    "example": "Els germans discutien sovint.",
+    "chapters": [
+      5,
+      9
+    ]
+  },
+  {
+    "id": "word-62",
+    "word": "domar",
+    "pos": "verb",
+    "meaning": "to tame.",
+    "form": "domar.",
+    "context": "Bring a wild animal under control.",
+    "example": "Volia domar el cavall.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-63",
+    "word": "dur",
+    "pos": "verb",
+    "meaning": "to wear; to carry.",
+    "form": "duu.",
+    "context": "to have clothing on.",
+    "example": "La noia duu un abric blau.",
+    "chapters": [
+      7,
+      10
+    ]
+  },
+  {
+    "id": "word-64",
+    "word": "emprovar-se",
+    "pos": "pronominal verb",
+    "meaning": "to try on.",
+    "form": "emprovar.",
+    "context": "se la van emprovar.",
+    "example": "Em vull emprovar el vestit.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-65",
+    "word": "enamorar-se de",
+    "pos": "pronominal verb",
+    "meaning": "to fall in love with.",
+    "form": "se’n va enamorar.",
+    "context": "Quan la va veure, se’n va enamorar.",
+    "example": "Es va enamorar d’una persona.",
+    "chapters": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      10
+    ]
+  },
+  {
+    "id": "word-66",
+    "word": "encantat, encantada",
+    "pos": "adjective (past participle of encantar)",
+    "meaning": "enchanted.",
+    "form": "encantades.",
+    "context": "unes morralles encantades.",
+    "example": "El conte parla d’un bosc encantat.",
+    "chapters": [
+      6,
+      8,
+      9
+    ]
+  },
+  {
+    "id": "word-67",
+    "word": "encanteri",
+    "pos": "masculine noun",
+    "meaning": "spell.",
+    "form": "encanteri.",
+    "context": "the magic trapping El Trist.",
+    "example": "La princesa trenca l’encanteri.",
+    "chapters": [
+      8,
+      9
+    ]
+  },
+  {
+    "id": "word-68",
+    "word": "endur-se",
+    "pos": "pronominal verb",
+    "meaning": "to take away.",
+    "form": "s’enduia.",
+    "context": "the bird carries away the pear.",
+    "example": "El vent s’enduu les fulles.",
+    "chapters": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "word-69",
+    "word": "enterrar",
+    "pos": "verb",
+    "meaning": "to bury.",
+    "form": "enterrar.",
+    "context": "va enterrar el seu germà.",
+    "example": "Van enterrar una capsa al jardí.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-70",
+    "word": "enveja",
+    "pos": "feminine noun",
+    "meaning": "envy.",
+    "form": "enveja.",
+    "context": "Envy felt toward another person.",
+    "example": "La seva germana li tenia enveja perquè havia guanyat el premi.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-71",
+    "word": "escampar",
+    "pos": "verb",
+    "meaning": "to scatter; to spread.",
+    "form": "escampés.",
+    "context": "Spread things over an area.",
+    "example": "El vent va escampar les fulles pel jardí.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-72",
+    "word": "escopina",
+    "pos": "feminine noun",
+    "meaning": "spittle; drop of spit.",
+    "form": "escopines.",
+    "context": "Saliva spat onto the ground.",
+    "example": "Les escopines es van assecar.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-73",
+    "word": "espantar",
+    "pos": "verb",
+    "meaning": "to scare.",
+    "form": "m’espantes.",
+    "context": "que m’espantes molt.",
+    "example": "El soroll m’espanta.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-74",
+    "word": "espasa",
+    "pos": "feminine noun",
+    "meaning": "sword.",
+    "form": "espasa.",
+    "context": "the weapon used against the giant.",
+    "example": "El cavaller porta una espasa.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-75",
+    "word": "esperó",
+    "pos": "masculine noun",
+    "meaning": "spur.",
+    "form": "esperons.",
+    "context": "An object attached to a rider’s heel.",
+    "example": "El genet portava esperons a les botes.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-76",
+    "word": "espiga",
+    "pos": "feminine noun",
+    "meaning": "ear; head (of grain).",
+    "form": "espiga.",
+    "context": "The head of a grain plant.",
+    "example": "Les espigues del blat es movien amb el vent.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-77",
+    "word": "feble",
+    "pos": "adjective",
+    "meaning": "weak; faint.",
+    "form": "feble.",
+    "context": "the faint sound of the last bell.",
+    "example": "Va sentir una veu feble.",
+    "chapters": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "word-78",
+    "word": "fer cas",
+    "pos": "idiomatic expression",
+    "meaning": "to pay attention; to heed.",
+    "form": "en feien cas.",
+    "context": "the owners disregard what they hear.",
+    "example": "No en facis cas.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-79",
+    "word": "ferradura",
+    "pos": "feminine noun",
+    "meaning": "horseshoe.",
+    "form": "ferradures.",
+    "context": "quatre ferradures calentes.",
+    "example": "El cavall ha perdut una ferradura.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-80",
+    "word": "ferrar",
+    "pos": "verb",
+    "meaning": "to shoe (a horse).",
+    "form": "ferrar.",
+    "context": "un cavall per ferrar.",
+    "example": "El ferrer ha de ferrar el cavall.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-81",
+    "word": "ferrer, ferrera",
+    "pos": "noun",
+    "meaning": "blacksmith.",
+    "form": "ferrer.",
+    "context": "hi havia un ferrer.",
+    "example": "El ferrer treballa el ferro.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-82",
+    "word": "filar",
+    "pos": "verb",
+    "meaning": "to spin thread.",
+    "form": "filar.",
+    "context": "es va posar a filar.",
+    "example": "La dona fila llana.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-83",
+    "word": "filosa",
+    "pos": "feminine noun",
+    "meaning": "distaff.",
+    "form": "filosa.",
+    "context": "una filosa d’or.",
+    "example": "La filosa sosté la fibra abans de filar.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-84",
+    "word": "fira",
+    "pos": "feminine noun",
+    "meaning": "fair.",
+    "form": "fira.",
+    "context": "a place or event where gifts are bought.",
+    "example": "Dissabte anirem a la fira.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-85",
+    "word": "flabiol",
+    "pos": "masculine noun",
+    "meaning": "small traditional flute.",
+    "form": "flabiol.",
+    "context": "va fer un flabiol.",
+    "example": "El músic toca el flabiol.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-86",
+    "word": "flama",
+    "pos": "feminine noun",
+    "meaning": "flame.",
+    "form": "flames.",
+    "context": "entre flames vermelles.",
+    "example": "Les flames són altes.",
+    "chapters": [
+      2,
+      10
+    ]
+  },
+  {
+    "id": "word-87",
+    "word": "fletxa",
+    "pos": "feminine noun",
+    "meaning": "arrow.",
+    "form": "fletxa.",
+    "context": "llancés la fletxa més alta.",
+    "example": "La fletxa va arribar molt lluny.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-88",
+    "word": "forat",
+    "pos": "masculine noun",
+    "meaning": "hole; opening.",
+    "form": "forat.",
+    "context": "the small opening leading out of the well.",
+    "example": "Hi ha un forat a la paret.",
+    "chapters": [
+      9,
+      2
+    ]
+  },
+  {
+    "id": "word-89",
+    "word": "fornal",
+    "pos": "feminine noun",
+    "meaning": "forge hearth.",
+    "form": "fornal.",
+    "context": "van encendre la fornal.",
+    "example": "El ferrer escalfa el ferro a la fornal.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-90",
+    "word": "fus",
+    "pos": "masculine noun",
+    "meaning": "spindle.",
+    "form": "fus.",
+    "context": "un fus de plata.",
+    "example": "El fus gira quan fila.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-91",
+    "word": "fusta",
+    "pos": "feminine noun",
+    "meaning": "wood.",
+    "form": "fusta.",
+    "context": "the material of the clothes.",
+    "example": "La cadira és de fusta.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-92",
+    "word": "gall",
+    "pos": "masculine noun",
+    "meaning": "rooster.",
+    "form": "gall.",
+    "context": "va passar un gall.",
+    "example": "El gall canta al matí.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-93",
+    "word": "gallina",
+    "pos": "feminine noun",
+    "meaning": "hen.",
+    "form": "gallina.",
+    "context": "va passar una gallina.",
+    "example": "La gallina és al pati.",
+    "chapters": [
+      1,
+      7
+    ]
+  },
+  {
+    "id": "word-94",
+    "word": "garbellar",
+    "pos": "verb",
+    "meaning": "to sieve; to sift.",
+    "form": "garbellar-lo.",
+    "context": "Separate grain from impurities by sifting.",
+    "example": "Van garbellar el gra abans de desar-lo.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-95",
+    "word": "gegant",
+    "pos": "masculine noun",
+    "meaning": "giant.",
+    "form": "gegants.",
+    "context": "A giant in a folktale.",
+    "example": "El gegant vivia dalt d’una muntanya.",
+    "chapters": [
+      10,
+      9
+    ]
+  },
+  {
+    "id": "word-96",
+    "word": "gibrell",
+    "pos": "masculine noun",
+    "meaning": "basin.",
+    "form": "gibrells.",
+    "context": "Large open container.",
+    "example": "Va omplir el gibrell d’aigua.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-97",
+    "word": "golfes",
+    "pos": "feminine plural noun",
+    "meaning": "attic; loft.",
+    "form": "golfes.",
+    "context": "The space under a roof.",
+    "example": "Guardaven els sacs de gra a les golfes.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-98",
+    "word": "gosar",
+    "pos": "verb",
+    "meaning": "to dare.",
+    "form": "gosava.",
+    "context": "the father hesitates to speak.",
+    "example": "No gosa obrir la porta.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-99",
+    "word": "grassonet, grassoneta",
+    "pos": "adjective",
+    "meaning": "chubby.",
+    "form": "grassoneta.",
+    "context": "tan grassoneta i bonica.",
+    "example": "El gat és grassonet.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-100",
+    "word": "hereu, hereva",
+    "pos": "noun",
+    "meaning": "heir.",
+    "form": "hereu.",
+    "context": "l’hereu del regne.",
+    "example": "La seva filla és l’hereva.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-101",
+    "word": "hort",
+    "pos": "masculine noun",
+    "meaning": "garden; vegetable garden.",
+    "form": "hort.",
+    "context": "the cultivated area with the pear tree.",
+    "example": "Plantem tomàquets a l’hort.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-102",
+    "word": "infern",
+    "pos": "masculine noun",
+    "meaning": "hell.",
+    "form": "infern.",
+    "context": "a l’infern.",
+    "example": "El conte parla de l’infern.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-103",
+    "word": "joia",
+    "pos": "feminine noun",
+    "meaning": "jewel; jewelry.",
+    "form": "joies.",
+    "context": "moltes joies.",
+    "example": "La capsa és plena de joies.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-104",
+    "word": "llaç",
+    "pos": "masculine noun",
+    "meaning": "bow.",
+    "form": "llaç.",
+    "context": "aquest llaç a la cua.",
+    "example": "El regal té un llaç.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-105",
+    "word": "llàgrima",
+    "pos": "feminine noun",
+    "meaning": "tear.",
+    "form": "llàgrimes.",
+    "context": "the princess cries at the reunion.",
+    "example": "Té llàgrimes als ulls.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-106",
+    "word": "llàstima",
+    "pos": "feminine noun",
+    "meaning": "pity.",
+    "form": "llàstima.",
+    "context": "the servants feel compassion.",
+    "example": "Em fa llàstima aquell animal.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-107",
+    "word": "llevar-se",
+    "pos": "pronominal verb",
+    "meaning": "to get up (out of bed).",
+    "form": "es llevés.",
+    "context": "li va dir que es llevés.",
+    "example": "Em llevo a les set.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-108",
+    "word": "lligar",
+    "pos": "verb",
+    "meaning": "to tie.",
+    "form": "lligat.",
+    "context": "s’havia lligat una cinta.",
+    "example": "Vaig lligar la cinta al regal.",
+    "chapters": [
+      1,
+      6,
+      9
+    ]
+  },
+  {
+    "id": "word-109",
+    "word": "madrastra",
+    "pos": "feminine noun",
+    "meaning": "stepmother.",
+    "form": "madrastra.",
+    "context": "la madrastra li va donar.",
+    "example": "Viu amb el pare i la madrastra.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-110",
+    "word": "masia",
+    "pos": "feminine noun",
+    "meaning": "traditional farmhouse.",
+    "form": "masia.",
+    "context": "the rural house where the girl works.",
+    "example": "Viuen en una masia.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-111",
+    "word": "mestressa",
+    "pos": "feminine noun",
+    "meaning": "mistress of the household; employer’s wife (here).",
+    "form": "mestressa.",
+    "context": "a la teva mestressa.",
+    "example": "La mestressa va obrir la porta.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-112",
+    "word": "metge, metgessa",
+    "pos": "noun",
+    "meaning": "doctor.",
+    "form": "metges.",
+    "context": "Molts metges el van visitar.",
+    "example": "La metgessa visita el pacient.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-113",
+    "word": "mill",
+    "pos": "masculine noun",
+    "meaning": "millet.",
+    "form": "mill.",
+    "context": "un sac de mill.",
+    "example": "El mill és un cereal.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-114",
+    "word": "mitjà/mitjana",
+    "pos": "adjective",
+    "meaning": "middle.",
+    "form": "mitjana.",
+    "context": "the daughter between the eldest and youngest.",
+    "example": "La germana mitjana viu a Girona.",
+    "chapters": [
+      7,
+      8,
+      10
+    ]
+  },
+  {
+    "id": "word-115",
+    "word": "mitjanit",
+    "pos": "feminine noun",
+    "meaning": "midnight.",
+    "form": "mitjanit.",
+    "context": "the time the bird appears.",
+    "example": "Va arribar a mitjanit.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-116",
+    "word": "mongeta",
+    "pos": "feminine noun",
+    "meaning": "bean.",
+    "form": "mongetes.",
+    "context": "un sac de mongetes.",
+    "example": "Les mongetes són al plat.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-117",
+    "word": "morralles",
+    "pos": "feminine noun, usually plural",
+    "meaning": "horse headgear; bridle straps. Current dictionary lemma: morralla (horse tack)",
+    "form": "morralles.",
+    "context": "unes morralles encantades.",
+    "example": "Les morralles subjecten el cap del cavall.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-118",
+    "word": "nou",
+    "pos": "feminine noun",
+    "meaning": "walnut.",
+    "form": "nou.",
+    "context": "li va donar una nou.",
+    "example": "Trenca la nou.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-119",
+    "word": "núvol",
+    "pos": "masculine noun",
+    "meaning": "cloud.",
+    "form": "núvols.",
+    "context": "va travessar els núvols.",
+    "example": "Hi ha núvols al cel.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-120",
+    "word": "oca",
+    "pos": "feminine noun",
+    "meaning": "goose.",
+    "form": "oques.",
+    "context": "the birds the girl tends.",
+    "example": "Dues oques neden al llac.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-121",
+    "word": "odre",
+    "pos": "masculine noun",
+    "meaning": "wineskin.",
+    "form": "odres.",
+    "context": "Leather container for wine.",
+    "example": "El vi era dins un odre.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-122",
+    "word": "ofegar-se",
+    "pos": "pronominal verb",
+    "meaning": "to drown.",
+    "form": "s’ofegarien.",
+    "context": "Drown in water.",
+    "example": "Si cau al riu i no sap nedar, es pot ofegar.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-123",
+    "word": "olorar",
+    "pos": "verb",
+    "meaning": "to smell; sniff.",
+    "form": "olorava.",
+    "context": "olorava la poma.",
+    "example": "M’agrada olorar les flors.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-124",
+    "word": "orgullós, orgullosa",
+    "pos": "adjective",
+    "meaning": "proud (here: vain).",
+    "form": "orgullosa.",
+    "context": "es va tornar orgullosa.",
+    "example": "Era tan orgullosa que no volia escoltar ningú.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-125",
+    "word": "pagès, pagesa",
+    "pos": "noun",
+    "meaning": "farmer.",
+    "form": "pagès.",
+    "context": "un pagès ric.",
+    "example": "La pagesa treballa al camp.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-126",
+    "word": "pansit, pansida",
+    "pos": "adjective",
+    "meaning": "wilted.",
+    "form": "pansides.",
+    "context": "roses that have lost freshness.",
+    "example": "Les flors estan pansides.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-127",
+    "word": "pastor, pastora",
+    "pos": "noun",
+    "meaning": "shepherd.",
+    "form": "pastor.",
+    "context": "Un pastor va fer un flabiol.",
+    "example": "El pastor guarda les ovelles.",
+    "chapters": [
+      3,
+      10
+    ]
+  },
+  {
+    "id": "word-128",
+    "word": "penedir-se",
+    "pos": "pronominal verb",
+    "meaning": "to regret.",
+    "form": "se’n va penedir.",
+    "context": "the father regrets his bargain.",
+    "example": "Es va penedir de la decisió.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-129",
+    "word": "penical",
+    "pos": "masculine noun",
+    "meaning": "field eryngo (a prickly plant).",
+    "form": "penical; botanical name in TERMCAT: panical.",
+    "context": "la flor del penical.",
+    "example": "Prop del camí creix un panical.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-130",
+    "word": "perera",
+    "pos": "feminine noun",
+    "meaning": "pear tree.",
+    "form": "perera.",
+    "context": "the tree whose pears disappear.",
+    "example": "La perera fa flors a la primavera.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-131",
+    "word": "pinta",
+    "pos": "feminine noun",
+    "meaning": "comb.",
+    "form": "pinta.",
+    "context": "Object with teeth for arranging hair.",
+    "example": "Es va pentinar amb una pinta.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-132",
+    "word": "ploma",
+    "pos": "feminine noun",
+    "meaning": "feather.",
+    "form": "plomes.",
+    "context": "the decoration on the gold dress.",
+    "example": "He trobat una ploma al jardí.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-133",
+    "word": "polsera",
+    "pos": "feminine noun",
+    "meaning": "bracelet.",
+    "form": "polsera.",
+    "context": "a gold bracelet.",
+    "example": "Duu una polsera d’or.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-134",
+    "word": "pou",
+    "pos": "masculine noun",
+    "meaning": "well.",
+    "form": "pou.",
+    "context": "the deep opening leading to the hidden palace.",
+    "example": "L’aigua és al fons del pou.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-135",
+    "word": "pressa",
+    "pos": "feminine noun",
+    "meaning": "hurry; haste.",
+    "form": "pressa.",
+    "context": "amb tanta pressa.",
+    "example": "Tinc pressa per arribar a casa.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-136",
+    "word": "prova",
+    "pos": "feminine noun",
+    "meaning": "test; trial.",
+    "form": "prova.",
+    "context": "fer una altra prova.",
+    "example": "La prova era difícil.",
+    "chapters": [
+      5,
+      10
+    ]
+  },
+  {
+    "id": "word-137",
+    "word": "pujar",
+    "pos": "verb",
+    "meaning": "to go up / come up.",
+    "form": "puja.",
+    "context": "puja, puja.",
+    "example": "Puja al primer pis.",
+    "chapters": [
+      1,
+      5,
+      9,
+      10
+    ]
+  },
+  {
+    "id": "word-138",
+    "word": "queixar-se",
+    "pos": "pronominal verb",
+    "meaning": "to complain.",
+    "form": "Es va queixar.",
+    "context": "the boy protests about the wedding.",
+    "example": "Es queixa del soroll.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-139",
+    "word": "recórrer",
+    "pos": "verb",
+    "meaning": "to turn to; to seek help from.",
+    "form": "recórrer.",
+    "context": "Turn to someone for help.",
+    "example": "Quan va tenir problemes, va recórrer a la seva amiga.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-140",
+    "word": "regne",
+    "pos": "masculine noun",
+    "meaning": "kingdom.",
+    "form": "regne.",
+    "context": "l’hereu del regne.",
+    "example": "El rei governa el regne.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-141",
+    "word": "remei",
+    "pos": "masculine noun",
+    "meaning": "remedy.",
+    "form": "remei.",
+    "context": "cap remei no el curava.",
+    "example": "Va buscar un remei per al mal.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-142",
+    "word": "ressonar",
+    "pos": "verb",
+    "meaning": "to echo; resound.",
+    "form": "ressonar.",
+    "context": "the sound after the spell breaks.",
+    "example": "La veu ressona dins la cova.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-143",
+    "word": "ros, rossa",
+    "pos": "adjective",
+    "meaning": "blond.",
+    "form": "rossos.",
+    "context": "els cabells rossos.",
+    "example": "Té els cabells rossos.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-144",
+    "word": "rovellat, rovellada",
+    "pos": "adjective",
+    "meaning": "rusty.",
+    "form": "rovellada.",
+    "context": "the sword found underground.",
+    "example": "La clau és rovellada.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-145",
+    "word": "sabateta",
+    "pos": "feminine noun (diminutive of sabata)",
+    "meaning": "little shoe; slipper.",
+    "form": "sabateta.",
+    "context": "una sabateta de cristall.",
+    "example": "La sabateta és petita.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-146",
+    "word": "sac",
+    "pos": "masculine noun",
+    "meaning": "sack.",
+    "form": "sac.",
+    "context": "un sac de mill.",
+    "example": "El sac és ple d’arròs.",
+    "chapters": [
+      4
+    ]
+  },
+  {
+    "id": "word-147",
+    "word": "sagristà",
+    "pos": "masculine noun",
+    "meaning": "sacristan.",
+    "form": "sagristà.",
+    "context": "Person who looks after a sacristy.",
+    "example": "El sagristà va obrir la capella.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-148",
+    "word": "segar",
+    "pos": "verb",
+    "meaning": "to reap; to cut the crop.",
+    "form": "segar-lo.",
+    "context": "Cut a ripe grain crop.",
+    "example": "Els pagesos seguen el cereal quan és madur.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-149",
+    "word": "sembrar",
+    "pos": "verb",
+    "meaning": "to sow; to plant (seeds).",
+    "form": "sembrar.",
+    "context": "Sow seeds in the ground.",
+    "example": "A la tardor sembraran ordi al camp.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-150",
+    "word": "soc",
+    "pos": "masculine noun",
+    "meaning": "wooden shoe; clog.",
+    "form": "socs.",
+    "context": "the shoes made for the girl.",
+    "example": "Duia uns socs de fusta.",
+    "chapters": [
+      7
+    ]
+  },
+  {
+    "id": "word-151",
+    "word": "sorra",
+    "pos": "feminine noun",
+    "meaning": "sand.",
+    "form": "sorra.",
+    "context": "sota la sorra.",
+    "example": "La platja és plena de sorra.",
+    "chapters": [
+      3
+    ]
+  },
+  {
+    "id": "word-152",
+    "word": "taca",
+    "pos": "feminine noun",
+    "meaning": "spot; stain.",
+    "form": "taques.",
+    "context": "el sol té taques.",
+    "example": "La camisa té una taca.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-153",
+    "word": "tèrbol, tèrbola",
+    "pos": "adjective",
+    "meaning": "murky; cloudy.",
+    "form": "tèrbola.",
+    "context": "water that is no longer clear.",
+    "example": "L’aigua del riu està tèrbola.",
+    "chapters": [
+      8
+    ]
+  },
+  {
+    "id": "word-154",
+    "word": "triar",
+    "pos": "verb",
+    "meaning": "to choose.",
+    "form": "triar.",
+    "context": "the princess chooses her husband.",
+    "example": "Pots triar el llibre que vulguis.",
+    "chapters": [
+      9,
+      5,
+      10
+    ]
+  },
+  {
+    "id": "word-155",
+    "word": "trosset",
+    "pos": "masculine noun (diminutive)",
+    "meaning": "small piece.",
+    "form": "trossets.",
+    "context": "the small bits of wood in the dress.",
+    "example": "Talla el pa en trossets.",
+    "chapters": [
+      7,
+      10
+    ]
+  },
+  {
+    "id": "word-156",
+    "word": "ullal",
+    "pos": "masculine noun",
+    "meaning": "fang; canine tooth.",
+    "form": "ullals.",
+    "context": "the old woman’s two large teeth.",
+    "example": "El gos té uns ullals grossos.",
+    "chapters": [
+      9
+    ]
+  },
+  {
+    "id": "word-157",
+    "word": "ullera de llarga vista",
+    "pos": "feminine noun phrase",
+    "meaning": "spyglass; telescope.",
+    "form": "ullera de llarga vista.",
+    "context": "va comprar una ullera de llarga vista.",
+    "example": "Mira el vaixell amb la ullera de llarga vista.",
+    "chapters": [
+      5
+    ]
+  },
+  {
+    "id": "word-158",
+    "word": "untar-se",
+    "pos": "pronominal verb",
+    "meaning": "to rub a substance onto oneself.",
+    "form": "s’untaven.",
+    "context": "s’untaven el cos amb el líquid.",
+    "example": "S’unta les mans amb crema.",
+    "chapters": [
+      6
+    ]
+  },
+  {
+    "id": "word-159",
+    "word": "venir ganes de",
+    "pos": "verbal construction",
+    "meaning": "to get the urge to / feel like.",
+    "form": "li van venir ganes de.",
+    "context": "li van venir ganes de menjar-se-la (a desire arose; ganes is plural, so the verb is plural). Related pattern: tenir ganes de (to feel like doing something)",
+    "example": "Tinc ganes de llegir.",
+    "chapters": [
+      1
+    ]
+  },
+  {
+    "id": "word-160",
+    "word": "vergonya",
+    "pos": "feminine noun",
+    "meaning": "shyness; embarrassment.",
+    "form": "vergonya.",
+    "context": "tenia vergonya.",
+    "example": "Em fa vergonya parlar en públic.",
+    "chapters": [
+      2
+    ]
+  },
+  {
+    "id": "word-161",
+    "word": "xai",
+    "pos": "masculine noun",
+    "meaning": "lamb.",
+    "form": "xai.",
+    "context": "Young sheep.",
+    "example": "El pastor porta un xai.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-162",
+    "word": "xal",
+    "pos": "masculine noun",
+    "meaning": "shawl.",
+    "form": "xal.",
+    "context": "Cloth worn over the shoulders.",
+    "example": "Es va posar el xal damunt les espatlles.",
+    "chapters": [
+      10
+    ]
+  },
+  {
+    "id": "word-163",
+    "word": "xinel·la",
+    "pos": "feminine noun",
+    "meaning": "slipper.",
+    "form": "xinel·la.",
+    "context": "Light shoe.",
+    "example": "Es va treure una xinel·la abans d’entrar.",
+    "chapters": [
+      10
+    ]
+  }
+]
