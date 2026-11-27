@@ -1,0 +1,209 @@
+{
+  "version": "2026-11-27",
+  "sections": [
+    "Cantar primero - El destierro",
+    "Cantar segundo - Las bodas",
+    "Cantar tercero - La afrenta de Corpes",
+    "Whole-book review"
+  ],
+  "ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      8,
+      13
+    ],
+    [
+      13,
+      15
+    ]
+  ],
+  "questions": [
+    {
+      "id": "RC-Q01",
+      "chapter": 1,
+      "question": "¿Por qué nadie se atreve a recibir a Rodrigo en Burgos?",
+      "options": [
+        "El rey amenaza con castigar a quienes le den alojamiento.",
+        "Los vecinos desconocen quién es el Campeador.",
+        "Rodrigo ha ordenado que nadie le ofrezca ayuda."
+      ],
+      "correct": "a",
+      "explanation": "The closed doors result from Alfonso's threat, not from a lack of sympathy for Rodrigo."
+    },
+    {
+      "id": "RC-Q02",
+      "chapter": 2,
+      "question": "¿Qué problema moral plantea el episodio de las dos arcas?",
+      "options": [
+        "Los prestamistas se niegan a aceptar una garantía.",
+        "El Cid consigue recursos para su hueste mediante un engaño.",
+        "Martín Antolínez se queda con todo el préstamo."
+      ],
+      "correct": "b",
+      "explanation": "The chests contain sand, although the lenders believe they hold treasure. The gain creates a moral tension."
+    },
+    {
+      "id": "RC-Q03",
+      "chapter": 3,
+      "question": "¿Qué significan los regalos del Cid a Alfonso?",
+      "options": [
+        "Una declaración de independencia del rey.",
+        "El pago de una deuda a los prestamistas.",
+        "Una muestra de lealtad que prepara el camino del perdón."
+      ],
+      "correct": "c",
+      "explanation": "The gifts acknowledge the king's authority and gradually improve Rodrigo's position."
+    },
+    {
+      "id": "RC-Q04",
+      "chapter": 4,
+      "question": "¿Qué revela el trato del Cid con el conde de Barcelona?",
+      "options": [
+        "Cumple su promesa de liberarlo, pero conserva el botín para sus hombres.",
+        "Renuncia a toda la riqueza ganada para conseguir su amistad.",
+        "Mantiene al conde prisionero después de que acepta comer."
+      ],
+      "correct": "a",
+      "explanation": "Rodrigo keeps his promise while recognizing his duty to sustain his followers."
+    },
+    {
+      "id": "RC-Q05",
+      "chapter": 8,
+      "question": "¿Por qué la conquista de Valencia exige una estrategia diferente?",
+      "options": [
+        "La ciudad se rinde tras una única carga.",
+        "El cerco requiere hombres, provisiones y vigilancia durante meses.",
+        "Rodrigo abandona las armas y se limita a enviar embajadores."
+      ],
+      "correct": "b",
+      "explanation": "A sustained siege requires organization and supplies, not merely a swift raid."
+    },
+    {
+      "id": "RC-Q06",
+      "chapter": 11,
+      "question": "¿Qué significa el reencuentro en Valencia para la familia?",
+      "options": [
+        "El final definitivo de todas las amenazas.",
+        "El regreso inmediato a Castilla.",
+        "La recuperación de un hogar común, aunque persiste el peligro."
+      ],
+      "correct": "c",
+      "explanation": "The family reunites after exile, but the threat to Valencia has not disappeared."
+    },
+    {
+      "id": "RC-Q07",
+      "chapter": 13,
+      "question": "¿Por qué es importante la intervención de Alfonso en las bodas?",
+      "options": [
+        "La propuesta real vincula al monarca con la responsabilidad del matrimonio.",
+        "El rey queda excluido de los acuerdos entre las familias.",
+        "Los infantes deben renunciar a su linaje antes de casarse."
+      ],
+      "correct": "a",
+      "explanation": "Alfonso proposes the marriages; his responsibility matters when Rodrigo later seeks justice."
+    },
+    {
+      "id": "RC-Q08",
+      "chapter": 15,
+      "question": "¿Qué contraste prepara el relato durante las bodas?",
+      "options": [
+        "La falta de riqueza frente a la generosidad de los infantes.",
+        "El prestigio y los honores de los infantes frente a su valor aún no demostrado.",
+        "La oposición de todos los invitados frente a la alegría del rey."
+      ],
+      "correct": "b",
+      "explanation": "The celebrations display high status, but the brothers have yet to show genuine courage."
+    },
+    {
+      "id": "RC-Q09",
+      "chapter": 16,
+      "question": "¿Qué revela el episodio del león?",
+      "options": [
+        "La nobleza de nacimiento garantiza el valor de los infantes.",
+        "El Campeador necesita que sus yernos lo protejan.",
+        "El valor demostrado puede contradecir el prestigio del linaje."
+      ],
+      "correct": "c",
+      "explanation": "The Cid calmly controls the lion; the brothers hide. Their actions expose the gap between rank and courage."
+    },
+    {
+      "id": "RC-Q10",
+      "chapter": 19,
+      "question": "¿Cómo transforma Corpes el conflicto central?",
+      "options": [
+        "El daño a las hijas convierte la honra familiar en una cuestión de justicia pública.",
+        "La afrenta pone fin a la relación del Cid con Alfonso.",
+        "Los infantes recuperan su prestigio ante los caballeros de Valencia."
+      ],
+      "correct": "a",
+      "explanation": "The violence leads Rodrigo to demand a royal hearing rather than seek private revenge."
+    },
+    {
+      "id": "RC-Q11",
+      "chapter": 22,
+      "question": "¿Por qué reclama primero el Cid las espadas y los bienes?",
+      "options": [
+        "Porque considera que recuperarlos basta para reparar la afrenta.",
+        "Porque separa la restitución material de la reclamación por el daño a sus hijas.",
+        "Porque quiere entregar las espadas al rey de inmediato."
+      ],
+      "correct": "b",
+      "explanation": "The return of property settles material claims, but the injury to the daughters still requires judgment."
+    },
+    {
+      "id": "RC-Q12",
+      "chapter": 24,
+      "question": "¿Quiénes representan al Cid en los desafíos judiciales?",
+      "options": [
+        "Álvar Fáñez, Félez Muñoz y don Jerónimo.",
+        "Rodrigo, Alfonso y Abengalbón.",
+        "Pedro Bermúdez, Martín Antolínez y Muño Gustioz."
+      ],
+      "correct": "c",
+      "explanation": "These three champions confront the opposing side under the judicial procedure."
+    },
+    {
+      "id": "RC-Q13",
+      "chapter": 23,
+      "question": "¿Cuándo se proponen los matrimonios con Navarra y Aragón?",
+      "options": [
+        "En las Cortes, antes de que se resuelvan los desafíos mediante combate.",
+        "Durante la primera estancia de Rodrigo en Cardeña.",
+        "Después de la muerte del Campeador."
+      ],
+      "correct": "a",
+      "explanation": "The marriage proposals arrive during the court proceedings, before the champions fight."
+    },
+    {
+      "id": "RC-Q14",
+      "chapter": 24,
+      "question": "¿Cómo cambia la honra del Cid entre el principio y el desenlace?",
+      "options": [
+        "Pasa de depender de sus riquezas a depender solo de sus espadas.",
+        "Pasa de la exclusión del destierro a un reconocimiento público mayor, respaldado por la justicia.",
+        "Se recupera únicamente mediante la venganza privada."
+      ],
+      "correct": "b",
+      "explanation": "The closed doors of Burgos contrast with restored standing, royal justice, and new family alliances."
+    },
+    {
+      "id": "RC-Q15",
+      "chapter": 24,
+      "question": "¿Qué papel tiene Alfonso en los dos acuerdos matrimoniales?",
+      "options": [
+        "Solo participa en el segundo acuerdo, cuando ya no existe conflicto.",
+        "Deja que Rodrigo resuelva ambos acuerdos sin intervención real.",
+        "Interviene en las primeras bodas y participa en el proceso público que precede a los nuevos enlaces."
+      ],
+      "correct": "c",
+      "explanation": "Alfonso's involvement connects the initial marriages to the later public resolution and new alliances."
+    }
+  ]
+}
